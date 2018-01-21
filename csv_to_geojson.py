@@ -26,7 +26,7 @@ f.close()
 print(data[0])
 
 geojsonf = open("C:/Users/Alysha/Documents/455/geojson_50records.geoJson","w", encoding="utf-8")
-geojsonf.write("{\n\t'features': [")
+geojsonf.write("{\n\t\"features\": [")
 
 for x in range(0,rowcount-1):        
     geojsonf.write("\n\t{")#start feature
