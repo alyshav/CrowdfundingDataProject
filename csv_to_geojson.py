@@ -37,9 +37,9 @@ for x in range(0,rowcount-1):
     geojsonf.write("\n\t\t\"properties\": {")
     geojsonf.write("\n\t\t\t\"title\": \"")
     geojsonf.write(data[x][0])
-    geojsonf.write("\",\n\t\t\t\"description\": \"")
-    geojsonf.write(data[x][12])
-    geojsonf.write("\",\n\t\t\t\"colour\": \"")
+    #geojsonf.write("\",\n\t\t\t\"description\": \"")
+    #geojsonf.write(data[x][12])
+    geojsonf.write("\",\n\t\t\t\"marker-color\": \"")
     geojsonf.write(data[x][8])
     geojsonf.write("\",\n\t\t\t\"location\": \"")
     geojsonf.write(data[x][17])
@@ -47,18 +47,18 @@ for x in range(0,rowcount-1):
 
     #GEOMETRY
     geojsonf.write("\n\t\t\"geometry\": {")
+    geojsonf.write("\n\t\t\t\"type\": \"Point\",")
     geojsonf.write("\n\t\t\t\"coordinates\": [")
     geojsonf.write("\n\t\t\t\t")
     geojsonf.write(data[x][19])
     geojsonf.write(",\n\t\t\t\t")
     geojsonf.write(data[x][18])
-    geojsonf.write("\n\t\t\t],")
-    geojsonf.write("\n\t\t\t\"type\": \"point")
-    geojsonf.write("\"\n\t\t}")
+    geojsonf.write("\n\t\t\t]")    
+    geojsonf.write("\n\t\t}")
     
     geojsonf.write("\n\t}")#end feature
     if (x < rowcount-2):
         geojsonf.write(",")
 
-geojsonf.write("\n\t],\n\t\n}")
+geojsonf.write("\n\t]\n\t\n}")
 geojsonf.close()
