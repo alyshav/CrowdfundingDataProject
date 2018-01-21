@@ -1,17 +1,43 @@
 #######################################################
 #
-#   GoFundMe Data Processor by Aly van D
+#   Multi-threaded GoFundMe data parser by Aly van D
 #   Adds lat/long based on location field to csv
 #
 #######################################################
 
 import csv
 import requests as req
+import threading
 
 fields = []
 data = []
+workerThreads = []
+numberOfThreads = 4
+numberOfRecords = 1808
+rowDivs = int(numberOfRecords/numberOfThreads)
 
-f = open('C:/Users/Alysha/Documents/455/2016gofundme50entries.csv', encoding="utf8")
+###### THREAD TASK #####
+
+def geocodeOp(start,end):
+    for x in range(start,end):
+        while True:
+            try:
+                print("Searching")
+                url = "https://maps.googleapis.com/maps/api/geocode/json?address=" + data[x][17].replace(" ", "")
+                print(url)
+                response = req.get(url)
+                res_json_payload = response.json()
+                latitude = res_json_payload['results'][0]['geometry']['location']['lat']
+                longitude = res_json_payload['results'][0]['geometry']['location']['lng']
+                break;
+            except:
+                print("Retrying")
+        data[x].append(latitude)
+        data[x].append(longitude)
+
+###### MAIN #####
+    
+f = open('C:/Users/Alysha/Documents/455/2016gofundmefull2.csv')
 reader = csv.reader(f)
 
 rowcount = 0
@@ -27,23 +53,16 @@ f.close()
 fields.append('Latitude')
 fields.append('Longitude')
 
-for x in range(rowcount-1):
-    while True:
-        try:
-            print("Searching")
-            url = "https://maps.googleapis.com/maps/api/geocode/json?address=" + data[x][17].replace(" ", "")
-            print(url)
-            response = req.get(url)
-            res_json_payload = response.json()
-            latitude = res_json_payload['results'][0]['geometry']['location']['lat']
-            longitude = res_json_payload['results'][0]['geometry']['location']['lng']
-            break;
-        except:
-            print("Retrying")
-    data[x].append(latitude)
-    data[x].append(longitude)
+for i in range(0,numberOfThreads):
+    t = threading.Thread(target=geocodeOp, args=(i*rowDivs,(i+1)*rowDivs,))
+    workerThreads.append(t)
 
-with open('C:/Users/Alysha/Documents/455/csv_latlong.csv', 'w', encoding="utf8") as csvfile:
+for thread in workerThreads:
+    thread.start()
+for thread in workerThreads:
+    thread.join()
+
+with open('C:/Users/Alysha/Documents/455/csv_latlong_all.csv', 'w') as csvfile:
     fieldnames = fields
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader()  
