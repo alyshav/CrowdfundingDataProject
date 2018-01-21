@@ -1,6 +1,6 @@
 #######################################################
 #
-#   GoFundMe data parser by Aly van D
+#   GoFundMe Data Processor by Aly van D
 #   Adds lat/long based on location field to csv
 #
 #######################################################
