@@ -128,9 +128,9 @@ def generateGeojson():
         geojsonf.write("\n\t\t\t\"type\": \"Point\",")
         geojsonf.write("\n\t\t\t\"coordinates\": [")
         geojsonf.write("\n\t\t\t\t")
-        geojsonf.write(data[x][1])
-        geojsonf.write(",\n\t\t\t\t")
         geojsonf.write(data[x][2])
+        geojsonf.write(",\n\t\t\t\t")
+        geojsonf.write(data[x][1])
         geojsonf.write("\n\t\t\t]")    
         geojsonf.write("\n\t\t}")
         
