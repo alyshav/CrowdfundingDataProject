@@ -3,7 +3,7 @@ Athabasca Healthcare Center,54.71724,-113.2540559
 Banff Mineral Springs Hospital,51.1790455,-115.5762576
 Barrhead Healthcare Centre,54.1189739,-114.4000054
 Bassano Health Centre,50.7897667,-112.4614377
-Beaverlodge Regional Hospital,55.2136915,-119.425019
+Beaverlodge Regional Hospital,51.074407,-114.148473
 Oilfields General Hospital,50.6781016,-114.235151
 Crowsnest Pass Hospital,49.6162753,-114.458498
 Bonnyville Health Centre,54.2637281,-110.7392959
@@ -20,10 +20,10 @@ Sheldon M. Chumir Health Centre (SMCHC),51.0412428,-114.0721692
 South Calgary Health Centre (SCHC),50.9025655,-114.0586109
 South Health Campus (SHC),50.8819537,-113.9518929
 Tom Baker Cancer Centre (TBCC),51.0630891,-114.1335698
-St. Mary's Hospital,32.2280654,-111.0003538
+St. Mary's Hospital,43.4378249,-80.5035548
 Canmore General Hospital,51.092305,-115.351595
 Cardston Hospital,49.201865,-113.3057959
-Our Lady of the Rosary Hospital,46.3955327,-105.828435
+Our Lady of the Rosary Hospital,52.223512,-111.9074116
 Claresholm General Hospital,50.0188664,-113.5827595
 Cochrane Community Health Centre,51.1846783,-114.4738775
 Cold Lake Healthcare Centre,54.4682368,-110.1965777
@@ -43,12 +43,12 @@ Misericordia Community Hospital,53.520874,-113.6118775
 Royal Alexandra Hospital,53.5568536,-113.4967364
 St Joseph's Auxiliary Hospital,53.4595342,-113.506051
 Stony Plain Municipal Hospital,53.537459,-113.9767078
-University of Alberta Hospital (Stollery Children's Hospital),53.5206261,-113.5251051
+University of Alberta Hospital (Stollery Children's Hospital),53.5203085,-113.5231019
 Edson & District Healthcare Centre,41.721148,-70.952887
 Elk Point Healthcare Centre,53.8977368,-110.9065832
 Fort Macleod Hospital,49.7264265,-113.3938077
 Fort Saskatchewan Community Hospital,53.691895,-113.210822
-Queen Elizabeth II Hospital,51.7834854,-0.1886127
+Queen Elizabeth II Hospital,55.175292,-118.7865681
 Grande Prairie Regional Hospital (2019),55.1807732,-118.8245757
 Hanna Health Centre,51.650247,-111.9280003
 Hardisty Health Centre,52.6691528,-111.307609
@@ -63,11 +63,11 @@ Leduc Community Hospital,53.2548182,-113.5454391
 Chinook Regional Hospital,49.6848155,-112.8160434
 Lloydminster Hospital (in Saskatchewan),53.2724701,-109.9895381
 Mayerthorpe Healthcare Centre,53.9483598,-115.1319444
-Sacred Heart Community Health Centre,30.4996687,-97.6879007
+Sacred Heart Community Health Centre,55.7103543,-116.9142292
 Medicine Hat Regional Hospital,50.0348711,-110.702914
 Milk River Health Centre,49.148799,-112.076851
 Olds Hospital and Care Centre,51.8014343,-114.1177307
-Big Country Health Centre,43.086488,-79.834242
+Big Country Health Centre,51.3512112,-110.4792934
 Peace River Community Health Centre,56.2305812,-117.354196
 Pincher Creek Hospital,49.4932914,-113.9469567
 Centennial Centre for Mental Health and Brain Injury (Alberta Hospital Ponoka),52.6493482,-113.5745841
@@ -79,16 +79,16 @@ Rocky Mountain House Hospital and Care Centre,52.3785683,-114.9202054
 George McDougall Health Centre,54.1200389,-112.464155
 Central Peace Health Complex,55.776981,-118.838754
 Sturgeon Community Hospital & Health Center,53.65524,-113.625711
-St. Paul Health Care Centre,39.74307,-104.951594
+St. Paul Health Care Centre,49.280516,-123.1281872
 Stettler Hospital and Care Centre,52.3238039,-112.7235137
 Strathmore District Health Services,51.0607093,-113.38706
 Sundre Hospital and Care Centre,51.807484,-114.635839
 Taber Hospital,49.7849092,-112.1650544
 Three Hills Health Centre,51.7082766,-113.2510333
 Tofield Health Centre,53.372657,-112.651099
-St. Mary's Health Centre,26.7566707,-80.0629181
-St. Joseph's General Hospital,46.3848332,-82.6609235
-Vermilion Health Centre,29.9990715,-92.2087852
+St. Mary's Health Centre,45.4947307,-73.6240597
+St. Joseph's General Hospital,49.6744637,-124.9415684
+Vermilion Health Centre,53.3554599,-110.8725027
 Viking Health Centre,53.100063,-111.7772
 Vulcan Community Health Centre,50.3961012,-113.2588
 Wainwright Health Centre,52.8412448,-110.8665766
@@ -112,11 +112,11 @@ Chilliwack General Hospital,49.1669125,-121.9639409
 Dr. Helmcken Memorial Hospital,51.6453419,-120.0181828
 St. Joseph's General Hospital (Comox Valley),49.6744637,-124.9415684
 Belvedere Care Centre,49.2404207,-122.8782529
-Riverview Hospital,40.0456899,-86.0243137
+Riverview Hospital,49.2505581,-122.8062894
 East Kootenay Regional Hospital,49.5123507,-115.7497563
 Creston Valley Hospital,49.097276,-116.507811
 Dawson Creek and District Hospital,55.7497747,-120.2353793
-Delta Hospital,38.7446594,-108.0483035
+Delta Hospital,49.0852529,-123.0614699
 Cowichan District Hospital,48.7855152,-123.7228499
 Elk Valley Hospital,49.5136918,-115.0560315
 Fort Nelson General Hospital,58.8084698,-122.7023651
@@ -125,7 +125,7 @@ Fort St. John General Hospital,56.2560509,-120.8166368
 Peace Lutheran Extended Care Centre,44.2929885,-96.7704857
 Lady Minto Gulf Islands Hospital,48.861529,-123.508555
 Golden and District General Hospital,51.2967771,-116.9673661
-Boundary Hospital,48.702117,-116.3210957
+Boundary Hospital,49.0295633,-118.4682502
 Wrinch Memorial Hospital,55.2595756,-127.651258
 Fraser Canyon Hospital,49.3768382,-121.4242746
 Invermere and District Hospital,50.5067544,-116.0334123
@@ -134,34 +134,34 @@ Royal Inland Hospital,50.6702645,-120.3346075
 Victorian Community Health Centre of Kaslo,49.913531,-116.9139704
 Kelowna General Hospital,49.8736291,-119.4914029
 Kitimat General Hospital,54.0502849,-128.6475914
-Ladysmith and District General Hospital,48.9957413,-123.8276341
+Ladysmith and District General Hospital,48.992328,-123.816205
 Langley Memorial Hospital,49.0955344,-122.612321
 Lillooet District Hospital,50.6893791,-121.9396484
-St Bartholomew's Hospital,51.5167628,-0.0986751
+St Bartholomew's Hospital,50.2343033,-121.5808724
 Mackenzie and District Hospital,55.3375782,-123.1006479
 Ridge Meadows Hospital & Health Care Centre,49.2153963,-122.6299013
-Queen Charlotte Islands General Hospital – Masset Site,54.0204495,-132.1570757
+Queen Charlotte Islands General Hospital – Masset Site,53.9920704,-132.6856593
 McBride and District Hospital,53.3011881,-120.1613919
-Nicola Valley Health Centre,50.121172,-120.772629
-Mission Memorial Hospital,35.5767592,-82.5489786
+Nicola Valley Health Centre,50.1106792,-120.7871215
+Mission Memorial Hospital,49.1354835,-122.3319289
 Arrow Lakes Hospital,50.2387294,-117.7952257
 Nanaimo Regional General Hospital,49.1848927,-123.9705084
 Kootenay Lake Hospital,49.4950249,-117.2848169
-Mount St. Francis Hospital,32.8777217,-79.7692349
+Mount St. Francis Hospital,49.5080802,-117.2701099
 Slocan Community Health Centre,49.9843134,-117.3739813
 Queen's Park Hospital,49.2168676,-122.9022669
 Royal Columbian Hospital,49.226319,-122.891457
-Lions Gate Hospital,49.3208802,-123.0684299
+Lions Gate Hospital,49.3220039,-123.0674997
 South Okanagan General Hospital,49.1836331,-119.5388854
 100 Mile District General Hospital,51.6386083,-121.2921997
-Trillium Lodge,42.2961325,-79.0987935
+Trillium Lodge,49.311376,-124.325139
 Penticton Regional Hospital,49.481348,-119.5778939
 West Coast General Hospital,49.2487383,-124.7820438
-Port Alice Hospital,50.4255573,-127.4873088
+Port Alice Hospital,50.4260087,-127.4878351
 Port Hardy Hospital,50.7200118,-127.5029085
 Port McNeill and District Hospital,50.5804529,-127.0673242
 Eagle Ridge Hospital,49.285505,-122.8235798
-Pouce Coupe Care Home,55.7160288,-120.1340567
+Pouce Coupe Care Home,0,0
 Powell River General Hospital,49.8508263,-124.5183911
 Prince George Regional Hospital,53.9118016,-122.7641906
 Prince Rupert Regional Hospital,54.3054808,-130.3322043
@@ -169,7 +169,7 @@ Princeton General Hospital,49.4534166,-120.526963
 Eagle Park Health Care Facility,49.343715,-124.4509269
 Queen Charlotte Islands General Hospital,53.2547886,-132.0705443
 G.R. Baker Memorial Hospital,52.98153,-122.4996475
-Queen Victoria Hospital,51.1352768,-0.0021189
+Queen Victoria Hospital,50.9775292,-118.1911915
 Richmond Hospital (RGH),49.1686899,-123.1469364
 Saanich Peninsula Hospital,48.5944725,-123.4105954
 Shuswap Lake General Hospital,50.7044229,-119.274541
@@ -179,42 +179,42 @@ Squamish General Hospital,49.697583,-123.141414
 Stewart Health Centre,52.8812158,-127.7376901
 Summerland Health Centre,49.6012316,-119.6686749
 Surrey Memorial Hospital,49.1759547,-122.8413971
-Mills Memorial Hospital,35.6094846,-99.6715086
+Mills Memorial Hospital,54.509686,-128.594781
 Tofino General Hospital,49.1514708,-125.908611
 Kootenay Boundary Regional Hospital,49.1031799,-117.7014705
 Amherst Hospital & Nursing Home,41.39907,-82.2237529
-BC Cancer Agency,49.2619726,-123.1188976
+BC Cancer Agency,49.0381709,-122.3124357
 British Columbia's Children's Hospital & Sunny Hill Health Centre for Children,49.2447354,-123.1256478
 B.C. Women's Hospital & Health Centre,49.2433464,-123.1245036
 Braddan Private Hospital,49.2697827,-123.1610209
 Cambie Surgery Centre,49.2597649,-123.117409
 George Pearson Centre,49.2187604,-123.1210139
 G. F. Strong Centre,49.2474716,-123.1255961
-Holy Family Hospital,47.7098478,-117.4071302
-Kensington Private Hospital,38.9294418,-77.0147304
+Holy Family Hospital,49.2132271,-123.0731084
+Kensington Private Hospital,43.6583897,-79.3889679
 Lakeview Care Centre,49.2535718,-123.0665398
 Louis Brier Hospital,49.2344818,-123.1292635
-Marion Hospice,29.154082,-82.177059
+Marion Hospice,49.2604448,-123.1249161
 Mary Pack Arthritis Centre,49.2626209,-123.1238256
 Mount Saint Joseph Hospital,49.2578335,-123.0950334
-Normandy Hospital,38.7092516,-90.300193
+Normandy Hospital,38.63241,-90.257962
 St. Paul's Hospital,49.280516,-123.1281872
-St. Vincent's Hospitals,42.2649772,-71.7964208
+St. Vincent's Hospitals,45.4134186,-75.7088147
 Honoria Conway-Heather,49.2417105,-123.1211813
 Brock Fahrni Pavilion,49.2432106,-123.123376
 Langara,49.2245678,-123.108437
-Shriners Hospitals for Children,39.137305,-84.501196
+Shriners Hospitals for Children,45.4718127,-73.6018115
 Sunny Hill Health Centre for Children,49.2519743,-123.0482504
-Vancouver Hospital and Health Sciences Centre,49.261616,-123.1239113
+Vancouver Hospital and Health Sciences Centre,49.2470743,-123.1255966
 U.B.C. Health Sciences Centre Hospital,49.262361,-123.244944
 Vancouver General Hospital,49.261616,-123.1239113
-St. John Hospital,42.420024,-82.915086
+St. John Hospital,45.3024718,-66.0853445
 Vernon Jubilee Hospital,50.2569212,-119.2716437
-Juan de Fuca Hospitals,48.434594,-123.4926663
-Aberdeen Hospital,46.9792513,-123.8471278
+Juan de Fuca Hospitals,48.4667736,-123.4329307
+Aberdeen Hospital,45.5729192,-62.6432282
 Mt. Tolmie Hospital,48.459924,-123.330454
 Glengarry Hospital,45.3056471,-74.643967
-Priory Hospital,48.4458,-123.487787
+Priory Hospital,43.5281128,-80.2341055
 Queen Alexandra Centre for Children's Health,48.4716504,-123.299937
 Royal Jubilee Hospital,48.433154,-123.3280209
 Gorge Road Hospital,48.4422096,-123.3883524
@@ -225,15 +225,15 @@ Peace Arch Hospital,49.0302546,-122.7922331
 Cariboo Memorial Hospital,52.1373392,-122.14359
 Altona Community Memorial Health Centre / Eastview Place,49.1074008,-97.5507187
 Beausejour Hospital District NO. 29,50.0578965,-96.5200145
-Brandon Regional Hospital,27.932749,-82.2876385
+Brandon Regional Hospital,49.840231,-99.936897
 Thompson General Hospital,55.7352841,-97.8566184
 Selkirk & District General Hospital,42.5319998,-73.7985008
-Bethesda Hospital,26.5046638,-80.0697853
+Bethesda Hospital,49.5296397,-96.6800091
 Boundary Trails Health Centre,49.1895596,-98.0032883
 The Children's Hospital of Winnipeg,49.9040452,-97.1570992
 Concordia Hospital,49.9134986,-97.0646308
 Deer Lodge Centre,49.8779998,-97.2355202
-Grace Hospital,35.7261096,-81.6541622
+Grace Hospital,49.882263,-97.277446
 Health Sciences Centre,49.9030599,-97.157404
 Misericordia Health Centre,49.8796446,-97.1605727
 Riverview Health Centre,49.8689077,-97.1200033
@@ -250,50 +250,51 @@ Burin Peninsula Health Care Centre,47.1048745,-55.194713
 Carbonear General Hospital,47.7261908,-53.2261528
 Charlottetown Community Clinic,46.2313746,-63.1299078
 Dr. G.B. Cross Memorial Hospital,48.1649933,-53.9844029
-Dr. J. I. O'Connell Centre,41.6857974,-83.5534518
+Dr. J. I. O'Connell Centre,0,0
 Western Memorial Regional Hospital,48.9485018,-57.9305905
 Strait of Belle Isle Health Centre,51.3080732,-56.7149754
 Fogo Island Hospital,49.6655689,-54.2245912
 Labrador South Health Centre,51.473889,-56.960102
 James Paton Memorial Hospital,48.955791,-54.6287226
-Grand Bank Community Health Centre,47.0947065,-55.7615698
+Gaultois Clinic,0,0
+Grand Bank Community Health Centre,47.0949022,-55.7616861
 Central Newfoundland Regional Health Centre,48.933861,-55.6443049
-Green Bay Community Health Centre,44.5228748,-87.9249894
+Green Bay Community Health Centre,49.5078472,-56.0475668
 Labrador Health Centre,52.9493487,-66.9329877
 Connaigre Peninsula Community Health Centre,47.4680039,-55.8273148
-Harbour Deep Community Clinic,33.7372098,-118.2807352
-Hermitage Clinic,53.3594171,-6.4067845
-La Scie Medical Centre,39.1408554,-84.5019783
+Harbour Deep Community Clinic,43.647204,-79.378415
+Hermitage Clinic,53.5899355,-113.4197496
+La Scie Medical Centre,42.960029,-81.22543
 Captain William Jackman Memorial Hospital,52.9493487,-66.9329877
 Lewisporte Lab & X-Ray Clinic,49.2470038,-55.0670461
-Mary's Harbour Community Clinic,37.5833747,-77.5122249
+Mary's Harbour Community Clinic,33.937142,-118.292039
 McCallum Visiting Clinic,49.0472262,-122.2938467
 Bay D'Espoir Medical Clinic,47.8771889,-55.8450066
-Mount Carmel Medical Clinic,39.840175,-83.0727599
+Mount Carmel Medical Clinic,49.909934,-97.1332633
 Dr. A.A. Wilkinson Memorial Health Centre,48.071582,-53.0050695
-Placentia Health Centre,33.8888781,-117.8449464
+Placentia Health Centre,47.237568,-53.9620496
 Dr. Charles L. Legrow Health Centre,47.5887708,-59.1629812
-Port Hope Simpson Community Clinic,52.541525,-56.171882
+Port Hope Simpson Community Clinic,47.6574471,-117.4137458
 Rufus Guinchard Health Centre,50.6496305,-57.3053633
-Mose Ambrose Clinic,47.466287,-55.500588
-Rencontre Clinic,48.1054935,-77.794492
+Mose Ambrose Clinic,38.3327898,-85.8155951
+Rencontre Clinic,46.6709802,-71.7802821
 White Bay Central Health Centre,50.8676122,-56.1141444
 Dr. Charles S. Curtis Memorial Hospital,51.3623223,-55.5869794
 Dr. Leonard A. Miller Centre,47.5741532,-52.6946892
 Dr. Walter Templeman Health Centre,47.6456833,-52.9469798
-"General Hospital, Health Sciences Centre",48.4247203,-89.2690972
+"General Hospital, Health Sciences Centre",47.5719363,-52.7419408
 Janeway Children's Health and Rehabilitation Centre,47.5726027,-52.7426791
 St. Clare's Mercy Hospital,47.5575975,-52.7214064
-Waterford Hospital,52.2486212,-7.078132
+Waterford Hospital,47.528947,-52.749431
 U.S. Memorial Health Centre,46.9300113,-55.3991252
-St. Lewis Community Clinic,38.7079633,-90.312488
-St. Mary's Bay Medical Clinic,42.989551,-87.883736
+St. Lewis Community Clinic,38.6290432,-90.2787042
+St. Mary's Bay Medical Clinic,43.185353,-87.965254
 Sir Thomas Roddick Hospital,48.5599176,-58.5526335
 Notre Dame Bay Memorial Health Care Centre,49.6531276,-54.7571615
 Dr. W.H. Newhook Community Health Centre,47.4188555,-53.5310353
-Fort Simpson Hospital,37.8299525,-94.7131562
-Fort Smith Health Centre,35.3724952,-94.38976
-H.H. Williams Memorial Hospital,43.9785144,-88.9411641
+Fort Simpson Hospital,45.4733491,-73.6008823
+Fort Smith Health Centre,60.003174,-111.8795272
+H.H. Williams Memorial Hospital,52.1373392,-122.14359
 Inuvik Regional Hospital,68.35406,-133.7035139
 Stanton Regional Hospital,62.4474052,-114.4046685
 Cumberland Regional Health Care Centre,45.804172,-64.1973709
@@ -301,11 +302,11 @@ St. Martha's Regional Hospital,45.6281633,-61.9820817
 South Shore Regional Hospital,44.383167,-64.5105951
 Digby General Hospital,44.6165379,-65.7619082
 Strait Richmond Hospital,45.617084,-61.222926
-Dartmouth,43.7044406,-72.2886935
+Dartmouth,44.6652059,-63.5677427
 Dartmouth General Hospital,44.6540418,-63.5476657
 Nova Scotia Hospital,44.653468,-63.549254
 East Coast Forensic Hospital,44.7213432,-63.5916341
-Halifax Peninsula,44.6363774,-63.5692933
+Halifax Peninsula,44.6427378,-63.57959
 IWK Health Centre,44.6372597,-63.5842288
 Queen Elizabeth II Health Sciences Centre,44.6453959,-63.587669
 Lower Sackville,44.7764086,-63.6791223
@@ -315,18 +316,18 @@ Musquodoboit Valley Memorial Hospital,45.040326,-63.140478
 Musquodoboit Harbour,44.787241,-63.148104
 Twin Oaks Memorial Hospital,44.783052,-63.158434
 Sheet Harbour,44.9278509,-62.544239
-Eastern Shore Memorial Hospital,37.6981718,-75.7232575
+Eastern Shore Memorial Hospital,44.920671,-62.532983
 Inverness Consolidated Memorial Hospital,46.2270232,-61.3048427
-Valley Regional Hospital,25.9777507,-97.5147772
-Queens General Hospital,40.7179213,-73.8057095
+Valley Regional Hospital,35.485127,-97.763099
+Queens General Hospital,44.037653,-64.705594
 Soldiers Memorial Hospital,44.604786,-79.4253192
 Buchanan Memorial Hospital,46.8105004,-60.334162
-Northside General Hospital,34.178669,-84.140388
+Northside General Hospital,46.2182718,-60.2356392
 North Cumberland Memorial Hospital,45.856089,-63.6588594
 Roseway Hospital,43.7492375,-65.3102229
 Cape Breton Regional Hospital,46.1129416,-60.1742756
 Lillian Fraser Memorial Hospital,45.711322,-63.2962175
-Colchester Hospital,51.9097902,0.8986689
+Colchester Hospital,45.3491013,-63.3034748
 Yarmouth Regional Hospital,43.8517741,-66.1211537
 Qikiqtani General Hospital,63.7505335,-68.5096799
 Rouge Valley Ajax and Pickering,43.8372881,-79.017015
@@ -335,12 +336,12 @@ Stevenson Memorial Hospital,44.1546874,-79.87364
 Atikokan General Hospital,48.7539997,-91.5975236
 North Hastings Hospital (Quinte Health Care),45.0551841,-77.8641876
 Royal Victoria Regional Health Centre,44.4157075,-79.6595976
-St. Francis Memorial Hospital,37.7897703,-122.4167064
+St. Francis Memorial Hospital,45.4819975,-77.6946216
 Belleville General Hospital (Quinte Health Care),44.1627054,-77.3643232
 Lakeridge Health Bowmanville,43.9089402,-78.6790495
 South Muskoka Memorial Hospital,45.0475824,-79.3143266
 Brampton Civic Hospital,43.7463347,-79.7440096
-Brampton Memorial Hospital Campus,43.6906684,-79.7510219
+Brampton Memorial Hospital Campus,43.7474662,-79.7432243
 Brockville General Hospital,44.5971245,-75.681811
 Brantford General Hospital,43.1525048,-80.276363
 Joseph Brant Memorial Hospital,43.3172845,-79.8025363
@@ -355,10 +356,10 @@ Dryden Regional Health Centre,49.76956,-92.83864
 Haldimand War Memorial Hospital,42.9049669,-79.6248502
 Durham Memorial Hospital,44.1794221,-80.8284664
 Englehart and District Hospital,47.823199,-79.8795739
-Espanola General Hospital,35.997207,-106.087765
+Espanola General Hospital,46.2482857,-81.7831666
 Groves Memorial Community Hospital,43.705468,-80.373079
 Niagara Health System - Douglas Memorial Hospital Site,42.9124531,-78.9241185
-Georgetown Hospital,38.9116562,-77.0756259
+Georgetown Hospital,43.6431568,-79.9346243
 Geraldton District Hospital,49.7233358,-86.9552627
 Alexandra Marine and General Hospital,43.7499154,-81.7059159
 West Lincoln Memorial Hospital-Hamilton Health Sciences,43.1881614,-79.5420391
@@ -366,54 +367,54 @@ Guelph General Hospital,43.5561245,-80.2532892
 Homewood Health Centre,43.557479,-80.2565971
 St. Joseph's Health Centre,43.6396798,-79.450349
 Hagersville West Haldimand General Hospital,42.9584936,-80.0446861
-Haliburton Hospital,45.0384978,-78.5297393
+Haliburton Hospital,44.9250503,-78.7302438
 Hamilton Health Sciences,43.259511,-79.9174083
-Chedoke Hospital,43.2442297,-79.9139278
+Chedoke Hospital,43.259511,-79.9174083
 Hamilton General Hospital,43.2617528,-79.8543243
-Henderson General Hospital,36.0728094,-115.0305292
+Henderson General Hospital,43.2397758,-79.8448781
 Juravinski Cancer Centre,43.2395361,-79.8462655
 McMaster Children's Hospital,43.259511,-79.9174083
 McMaster University Medical Centre (affiliated with McMaster University),43.259609,-79.9175167
-St. Joseph's Hospital,42.7493836,-71.4803099
-King Site,45.5585387,-122.6585013
-Charlton Campus,43.2484073,-79.8712271
-West 5th,43.2409544,-79.8848233
-St. Peter's Hospital,42.6557957,-73.8038974
+St. Joseph's Hospital,43.6396798,-79.450349
+King Site,45.4553479,-73.7278812
+Charlton Campus,43.2490148,-79.8720532
+West 5th,49.2664416,-123.1087724
+St. Peter's Hospital,43.2443864,-79.837207
 Hanover and District Hospital[1],44.1421297,-81.029398
 Hôpital Général de Hawkesbury & District General Hospital Inc.,45.5996186,-74.6074136
 Hôpital Notre-Dame Hospital,45.5256418,-73.5641782
-Huntsville Memorial District Hospital,30.6985454,-95.5590552
-Alexandra Hospital,1.2866021,103.8010462
+Huntsville Memorial District Hospital,45.338938,-79.206128
+Alexandra Hospital,43.032198,-80.875405
 Sensenbrenner hospital,49.4256232,-82.4275767
 Ross Memorial Hospital,44.3531975,-78.750836
 Lake Of The Woods District Hospital,49.7680773,-94.4994285
 Kincardine South Bruce Grey Health Centre,44.1890238,-81.6254754
 Kingston General Hospital,44.224284,-76.4927891
-Hotel Dieu,33.8805433,35.5192654
-Providence Continuing Care Centre (PCCC),44.217951,-76.5267759
+Hotel Dieu,47.4975863,-67.3931462
+Providence Continuing Care Centre (PCCC),44.2322959,-76.4838294
 Kirkland and District Hospital,48.1534486,-80.0146987
 Grand River Hospital,43.4563405,-80.5121785
-St. Mary's General Hospital,40.8593168,-74.1375757
-Manitoulin Health Centre,45.9785473,-81.9266197
+St. Mary's General Hospital,43.4379223,-80.5014288
+Manitoulin Health Centre,45.7324125,-82.1673113
 London Health Sciences Centre,42.960348,-81.226628
 Children's Hospital at London Health Sciences Centre,42.960246,-81.227075
-University Hospital,41.5060157,-81.6068397
-Victoria Hospital,42.9604271,-81.2259041
+University Hospital,43.0124326,-81.2747243
+Victoria Hospital,48.4667736,-123.4329307
 "St. Joseph's Health Care, London",43.000852,-81.254603
-Parkwood Hospital,34.9612834,-89.8456536
+Parkwood Hospital,42.9546366,-81.2255865
 Manitouwadge General Hospital,49.1276584,-85.8246914
-Wilson Memorial Hospital,40.2865252,-84.1692397
-Grey Bruce Health Services,44.493845,-81.3657022
-Georgian Bay General Hospital,44.7693002,-79.9294473
+Wilson Memorial Hospital,48.718912,-86.3754142
+Grey Bruce Health Services,44.5696611,-80.9108583
+Georgian Bay General Hospital,44.742183,-79.913531
 Milton District Hospital,43.4963633,-79.8711884
 Mindemoya Hospital,45.7350016,-82.1671333
-Minden Hospital,32.616919,-93.2860957
+Minden Hospital,44.9250503,-78.7302438
 Credit Valley Hospital,43.559283,-79.702419
 Mississauga Hospital,43.5713426,-79.6083555
-Moose Factory Hospital,51.2495045,-80.6173666
+Moose Factory Hospital,51.2538716,-80.6170007
 Louise Marshall Hospital,43.9745666,-80.7376401
 Lennox & Addington County General Hospital,32.9803874,-96.7603576
-Niagara Health System - Greater Niagara General Site,43.0936588,-79.0909066
+Niagara Health System - Greater Niagara General Site,43.0942273,-79.0894642
 Niagara Health System - Niagara-on-the-Lake Hospital Site,43.253223,-79.066117
 Nipigon District Memorial Hospital,49.0157251,-88.2764877
 North Bay Regional Health Centre,46.335513,-79.499189
@@ -425,9 +426,9 @@ Children's Hospital of Eastern Ontario (CHEO),45.400879,-75.6520144
 Montfort Hospital,45.445554,-75.6391718
 National Defence Medical Centre,45.4012815,-75.6580045
 The Ottawa Hospital,45.4008764,-75.6478808
-Civic Hospital,45.392674,-75.7214181
-General Hospital,27.9379842,-82.4591662
-Riverside Hospital,40.0308102,-83.0347647
+Civic Hospital,45.4008764,-75.6478808
+General Hospital,43.4379223,-80.5014288
+Riverside Hospital,45.3962675,-75.6689126
 Queensway-Carleton Hospital,45.3351231,-75.8078316
 University of Ottawa Heart Institute,45.3941057,-75.7206326
 Royal Ottawa Mental Health Centre,45.3890056,-75.7301564
@@ -435,7 +436,7 @@ Palmerston & District Hospital,-12.4784614,130.9851852
 West Parry Sound Health Centre,45.3406114,-80.0168164
 Pembroke Regional Hospital,45.8141184,-77.1067994
 Great War Memorial Hospital,44.9061781,-76.2528687
-Peterborough Regional Health Centre,44.299994,-78.347598
+Peterborough Regional Health Centre,44.2999597,-78.3474884
 Charlotte Eleanor Englehart Hospital of Bluewater Health,42.8783136,-82.1468271
 Niagara Health System - Port Colborne General Site,42.8797823,-79.2596002
 Lakeridge Health Port Perry,44.1048881,-78.9548393
@@ -443,11 +444,11 @@ Margaret Cochenour Memorial Hospital,51.0132617,-93.8224349
 Renfrew Victoria Hospital,45.482528,-76.6966868
 Bluewater Health,42.9773664,-82.3905476
 Sault Area Hospital,46.549151,-84.310791
-Norfolk General Hospital,36.862424,-76.303586
+Norfolk General Hospital,42.83504,-80.314488
 Smith Falls Community Hospital,44.9069239,-76.0264912
 Hotel Dieu Shaver Health and Rehabilitation Centre,43.1222005,-79.2423182
-Niagara Health System,43.1527122,-79.278481
-Ontario Street Site,41.651781,-88.1053261
+Niagara Health System,43.0936588,-79.0909066
+Ontario Street Site,43.1667459,-79.2340345
 St.Catharines General Site,43.1527122,-79.278481
 Matthews Memorial Hospital,46.2935044,-84.0351684
 West Nipissing General Hospital,46.3722814,-79.9162031
@@ -459,24 +460,24 @@ Thunder Bay Regional Health Sciences Centre,48.4247203,-89.2690972
 Timmins & District Hospital,48.4758208,-81.3304953
 Bellwood Health Services,43.7198184,-79.3656219
 Clarke Institute of Psychiatry,43.6585588,-79.3990409
-Etobicoke General Hospital,43.7293874,-79.5981715
-Hospital for Sick Children,38.941347,-76.9811919
+Etobicoke General Hospital,43.730806,-79.5993429
+Hospital for Sick Children,43.6573065,-79.3874268
 Humber River Regional Hospital,43.7241286,-79.4880383
 North York General Hospital,43.7694457,-79.3625064
 North York General Hospital - Branson,43.7718726,-79.4474386
-Queensway Health Centre,43.5713426,-79.6083555
+Queensway Health Centre,43.6094009,-79.5619046
 Rouge Valley Centenary (Rouge Valley Health System),43.8372881,-79.017015
 Scarborough Hospital,43.7565273,-79.247877
 Scarborough Hospital - Grace,43.8018517,-79.3090285
-Sinai Health System,41.8610295,-87.6940842
+Sinai Health System,43.6558557,-79.3894093
 Baycrest,43.7300068,-79.4342381
-Mount Sinai Hospital,40.7900393,-73.9522547
+Mount Sinai Hospital,43.6577073,-79.389952
 St. John's Rehab Hospital,43.7878363,-79.4047221
 St. Michael's Hospital,43.6529691,-79.3776369
-Sunnybrook Health Sciences Centre,43.7216064,-79.3759228
+Sunnybrook Health Sciences Centre,43.7206484,-79.3780573
 Toronto East General Hospital,43.6899188,-79.3246285
 Toronto Grace Health Centre,43.6703605,-79.3832185
-University Health Network,43.656765,-79.3900098
+University Health Network,43.6598777,-79.3876181
 Princess Margaret Cancer Centre,43.658224,-79.3906162
 Toronto General Hospital,43.6583897,-79.3889679
 Toronto Rehabilitation Institute,43.6566603,-79.3899178
@@ -484,7 +485,7 @@ Toronto Western Hospital,43.6534469,-79.4055131
 Women's College Hospital,43.6616205,-79.3876364
 Trenton Memorial Hospital (Quinte Health Care),44.0993832,-77.5882092
 Uxbridge Cottage Hospital,44.1028495,-79.1274051
-South Bruce Grey Health Centre,44.298492,-81.093232
+South Bruce Grey Health Centre,44.1220182,-81.1530353
 "Chatham-Kent Health Alliance, Sydenham Campus",42.5984682,-82.3668708
 Niagara Health System - Welland County General Site,42.9798362,-79.2485369
 Windsor Regional Hospital,42.3004058,-82.99723
@@ -493,31 +494,31 @@ Wingham and District Hospital,43.8848,-81.306698
 Woodstock General Hospital,43.1062903,-80.7530616
 Markham Stouffville Hospital,43.8840893,-79.2312898
 Mackenzie Richmond Hill Hospital,43.8705543,-79.4503689
-Mackenzie Vaughan Hospital (future),43.8642494,-79.4687542
+Mackenzie Vaughan Hospital (future),43.8705543,-79.4503689
 Shouldice Hernia Centre,43.8206976,-79.4042384
 Southlake Regional Health Centre,44.0606295,-79.4524249
 Western Hospital,43.6534469,-79.4055131
-Hillsborough Hospital,36.036728,-79.0909361
-Queen Elizabeth Hospital,45.474492,-73.606699
+Hillsborough Hospital,46.2564326,-63.0932394
+Queen Elizabeth Hospital,46.2553581,-63.1002223
 Kings County Memorial,46.170365,-62.6551813
-Community Hospital,41.5505347,-87.5069983
-Souris Hospital,49.614677,-100.2491169
+Community Hospital,53.520874,-113.6118775
+Souris Hospital,46.3520918,-62.2444515
 Prince County Hospital,46.4173747,-63.7729442
 Stewart Memorial Hospital,42.2656737,-94.7494639
 Hôpital de Gatineau,45.493269,-75.691219
 Hôpital de Hull,45.4444231,-75.7460216
 Cité de la Santé de Laval,45.6028649,-73.7104968
 Jewish Rehabilitation Hospital,45.5485463,-73.7377141
-Hôpital Charles-LeMoyne (affiliated to Université de Sherbrooke),45.4969984,-73.4859921
+Hôpital Charles-LeMoyne (affiliated to Université de Sherbrooke),45.379432,-71.927816
 Centre hospitalier Pierre-Boucher,45.5382727,-73.4585635
-Centre hospitalier Angrignon,45.420933,-73.6231613
+Centre hospitalier Angrignon,45.4420179,-73.5839938
 Centre hospitalier de Fleury,45.5718874,-73.6499032
 Centre hospitalier de Lachine,45.4408829,-73.6774665
 Centre hospitalier de LaSalle,45.420933,-73.6231613
 Centre hospitalier de Mont-Sinaï,45.4740072,-73.6574353
 Centre hospitalier de St-Mary,45.4947307,-73.6240597
 Centre hospitalier de Verdun,45.4640344,-73.5636524
-Centre hospitalier juif de l'Espérance,45.4929585,-73.6337722
+Centre hospitalier juif de l'Espérance,45.4987067,-73.6283106
 Centre hospitalier Richardson,45.471888,-73.6460172
 Centre hospitalier de l'Université de Montréal,45.5139877,-73.5777193
 Hôtel-Dieu de Montréal,45.5139877,-73.5777193
@@ -525,7 +526,7 @@ Hôpital Notre-Dame,45.5256418,-73.5641782
 Hôpital Saint-Luc,45.511445,-73.55813
 Centre hospitalier universitaire Sainte-Justine (affiliated to the Université de Montréal but independent from the Centre hospitalier de l'Université de Montréal),45.5056156,-73.6137592
 Centre de réadaptation Marie-Enfant,45.5752662,-73.577215
-Centre hospitalier Ville Émard,45.4546353,-73.5948519
+Centre hospitalier Ville Émard,45.4572417,-73.5893149
 Hôpital du Sacré-Cœur de Montréal,45.5325192,-73.7141048
 Hôpital Jean-Talon,45.5457252,-73.6093085
 Institut universitaire en santé mentale de Montréal (previously known as Hôpital Louis-H. Lafontaine),45.5907711,-73.5311598
@@ -538,15 +539,15 @@ McGill University Health Centre (MUHC),45.4728825,-73.6017703
 Montreal Children's Hospital,45.4725822,-73.6017873
 Montreal General Hospital,45.4970688,-73.5893765
 Montreal Neurological Hospital,45.5089963,-73.5813729
-Douglas Hospital,33.7390326,-84.7314746
+Douglas Hospital,45.4420179,-73.5839938
 Royal Victoria Hospital,45.4729767,-73.6013656
 Allan Memorial Institute,45.506025,-73.5821668
-Montreal Chest Institute,45.4745881,-73.5985687
+Montreal Chest Institute,45.5133138,-73.5745993
 Montreal Heart Institute,45.5739331,-73.5778159
 Shriners Hospital for Children – Canada,45.4718127,-73.6018115
 Centre hospitalier Honoré-Mercier,45.6334388,-72.9603455
 Barrie Memorial Hospital,45.1262482,-73.9998984
-Centre hospitalier universitaire de Québec (CHUQ),46.8154181,-71.2106563
+Centre hospitalier universitaire de Québec (CHUQ),46.7686347,-71.2825262
 Hôtel-Dieu de Québec,46.8152882,-71.2108399
 Hôpital Saint-François d’Assise,46.827533,-71.236389
 Centre hospitalier de l'Université Laval (CHUL),46.7686347,-71.2825262
@@ -559,29 +560,29 @@ Hôpital du Suroît,45.250905,-74.1307026
 Centre hospitalier universitaire de Sherbrooke (CHUS),45.3982305,-71.8790246
 Assiniboia Union Hospital,49.6286569,-105.9831724
 Balcarres Hospital,50.8030247,-103.5508482
-Big River Hospital,34.14732,-114.3019643
+Big River Hospital,53.8349348,-107.0330121
 Broadview Union Hospital,50.3739021,-102.5846546
 Canora Hospital,51.6255101,-102.4405574
 Carrot River Union Hospital,40.515302,-81.455707
 Cupar Health Centre,56.3242812,-3.0182181
-Davidson Hospital,35.4493168,-80.785239
+Davidson Hospital,51.2666112,-105.9844709
 Fillmore Health Centre,49.879067,-103.4361106
 Foam Lake Health Centre,51.6413178,-103.5229672
-L. Gervais Memorial Hospital Centre,54.3996863,-109.2264723
+L. Gervais Memorial Hospital Centre,54.4000158,-109.2266641
 Humboldt District Hospital,52.2124959,-105.1210596
 Kamsack Union Hospital,51.5574177,-101.8874913
 Kerrobert Hospital,51.9135803,-109.1318555
 Kindersley Hospital,51.4711092,-109.1644159
 La Ronge Health Centre,55.105088,-105.2896681
-Lanigan Hospital,51.8514257,-105.023926
-Leader Hospital,26.0439997,-80.2729199
+Lanigan Hospital,51.952503,-103.795216
+Leader Hospital,50.8906566,-109.5384745
 Lloydminster Hospital,53.2724701,-109.9895381
-Loon Lake Hospital,48.063031,-117.630195
-Maidstone Hospital,51.273694,0.484042
+Loon Lake Hospital,54.0273801,-109.1588281
+Maidstone Hospital,53.0903635,-109.2939706
 Maple Creek Hospital,49.9030517,-109.4876933
-Meadow Lake Hospital,36.372101,-97.892348
+Meadow Lake Hospital,54.1235757,-108.4349174
 Melfort Hospital,52.8657324,-104.6146323
-Moose Jaw Union Hospital,50.4188317,-105.5247479
+Moose Jaw Union Hospital,50.3920408,-105.5238137
 Nipawin Hospital,53.3559551,-104.0038797
 Battlefords Union Hospital,52.7727402,-108.2886807
 Redvers Health Centre,49.5727468,-101.6942135
