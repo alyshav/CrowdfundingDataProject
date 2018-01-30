@@ -1,0 +1,7740 @@
+{
+	"type":"FeatureCollection",
+	"features": [
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Athabasca Healthcare Center"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.71724,
+				-113.2540559
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Banff Mineral Springs Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.1790455,
+				-115.5762576
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Barrhead Healthcare Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.1189739,
+				-114.4000054
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Bassano Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.7897667,
+				-112.4614377
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Beaverlodge Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				55.2136915,
+				-119.425019
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Oilfields General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.6781016,
+				-114.235151
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Crowsnest Pass Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.6162753,
+				-114.458498
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Bonnyville Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.2637281,
+				-110.7392959
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Bow Island Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.865624,
+				-111.378438
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Boyle Healthcare Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.5883358,
+				-112.8014498
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Brooks Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.5684258,
+				-111.8895767
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Alberta Children's Hospital (ACH)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.0743516,
+				-114.1479442
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "East Calgary Health Centre (ECHC)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.0449223,
+				-113.9668105
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Foothills Medical Centre (FMC)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.064491,
+				-114.134061
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Peter Lougheed Centre (PLC)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.0789832,
+				-113.9839451
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Richmond Road Diagnostic & Treatment Centre (RRDTC)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.0366092,
+				-114.109674
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Rockyview General Hospital (RGH)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.9903099,
+				-114.0974163
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Sheldon M. Chumir Health Centre (SMCHC)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.0412428,
+				-114.0721692
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "South Calgary Health Centre (SCHC)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.9025655,
+				-114.0586109
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "South Health Campus (SHC)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.8819537,
+				-113.9518929
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Tom Baker Cancer Centre (TBCC)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.0630891,
+				-114.1335698
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Mary's Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				32.2280654,
+				-111.0003538
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Canmore General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.092305,
+				-115.351595
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Cardston Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.201865,
+				-113.3057959
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Our Lady of the Rosary Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.3955327,
+				-105.828435
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Claresholm General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.0188664,
+				-113.5827595
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Cochrane Community Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.1846783,
+				-114.4738775
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Cold Lake Healthcare Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.4682368,
+				-110.1965777
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Consort Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.0098603,
+				-110.7820156
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Coronation Hospital and Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.0962638,
+				-111.459203
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Daysland Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.868821,
+				-112.272956
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Devon General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.3515216,
+				-113.7310094
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Drayton Valley Hospital and Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.211841,
+				-114.969193
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Drumheller Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.4698073,
+				-112.7259343
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Alberta Hospital Edmonton"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.6372541,
+				-113.3736936
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Cross Cancer Institute"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.5182625,
+				-113.5310786
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Edmonton Clinic"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.5189515,
+				-113.5276209
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Glenrose Rehabilitation Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.560136,
+				-113.496168
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Grey Nuns Community Hospital & Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.461899,
+				-113.429664
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Leduc Community Hospital & Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.2548182,
+				-113.5454391
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Misericordia Community Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.520874,
+				-113.6118775
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Royal Alexandra Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.5568536,
+				-113.4967364
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St Joseph's Auxiliary Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.4595342,
+				-113.506051
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Stony Plain Municipal Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.537459,
+				-113.9767078
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "University of Alberta Hospital (Stollery Children's Hospital)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.5206261,
+				-113.5251051
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Edson & District Healthcare Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				41.721148,
+				-70.952887
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Elk Point Healthcare Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.8977368,
+				-110.9065832
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Fort Macleod Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.7264265,
+				-113.3938077
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Fort Saskatchewan Community Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.691895,
+				-113.210822
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Queen Elizabeth II Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.7834854,
+				-0.1886127
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Grande Prairie Regional Hospital (2019)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				55.1807732,
+				-118.8245757
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hanna Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.650247,
+				-111.9280003
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hardisty Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.6691528,
+				-111.307609
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "High Prairie Health Complex"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				55.431481,
+				-116.4549261
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "High River General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.5755832,
+				-113.8792152
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hinton Healthcare Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.398173,
+				-117.584756
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Innisfail Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.019015,
+				-113.9514399
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Killam Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.7888544,
+				-111.8593338
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lacombe Hospital and Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.4607254,
+				-113.7407883
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lamont Health Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.7623271,
+				-112.7882624
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Leduc Community Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.2548182,
+				-113.5454391
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Chinook Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.6848155,
+				-112.8160434
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lloydminster Hospital (in Saskatchewan)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.2724701,
+				-109.9895381
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Mayerthorpe Healthcare Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.9483598,
+				-115.1319444
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Sacred Heart Community Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				30.4996687,
+				-97.6879007
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Medicine Hat Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.0348711,
+				-110.702914
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Milk River Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.148799,
+				-112.076851
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Olds Hospital and Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.8014343,
+				-114.1177307
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Big Country Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.086488,
+				-79.834242
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Peace River Community Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				56.2305812,
+				-117.354196
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Pincher Creek Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.4932914,
+				-113.9469567
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centennial Centre for Mental Health and Brain Injury (Alberta Hospital Ponoka)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.6493482,
+				-113.5745841
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Ponoka Hospital and Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.684679,
+				-113.589569
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Raymond Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.4647,
+				-112.650582
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Red Deer Regional Hospital and Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.2612252,
+				-113.8180643
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Rimbey Hospital and Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.640315,
+				-114.2461329
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Rocky Mountain House Hospital and Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.3785683,
+				-114.9202054
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "George McDougall Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.1200389,
+				-112.464155
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Central Peace Health Complex"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				55.776981,
+				-118.838754
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Sturgeon Community Hospital & Health Center"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.65524,
+				-113.625711
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Paul Health Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				39.74307,
+				-104.951594
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Stettler Hospital and Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.3238039,
+				-112.7235137
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Strathmore District Health Services"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.0607093,
+				-113.38706
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Sundre Hospital and Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.807484,
+				-114.635839
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Taber Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.7849092,
+				-112.1650544
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Three Hills Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.7082766,
+				-113.2510333
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Tofield Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.372657,
+				-112.651099
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Mary's Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				26.7566707,
+				-80.0629181
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Joseph's General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.3848332,
+				-82.6609235
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Vermilion Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				29.9990715,
+				-92.2087852
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Viking Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.100063,
+				-111.7772
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Vulcan Community Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.3961012,
+				-113.2588
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Wainwright Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.8412448,
+				-110.8665766
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Westlock Healthcare Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.1472287,
+				-113.853507
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Wetaskiwin Hospital and Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.9867882,
+				-113.3681024
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Whitecourt Healthcare Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.1312554,
+				-115.6745339
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Menno Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.0384349,
+				-122.3117413
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Abbotsford Regional Hospital and Cancer Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.036716,
+				-122.3119126
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Cormorant Island Community Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.5938565,
+				-126.943019
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Ashcroft and District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.7347718,
+				-121.2801628
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Bella Coola General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.3736217,
+				-126.7571816
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Burnaby Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2497287,
+				-123.0160884
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Fellburn Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.27978,
+				-122.9761029
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Michael's Centre Extended Care Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2159691,
+				-123.0051886
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lakes District Hospital and Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.2356268,
+				-125.7612622
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Campbell River & District General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.0331226,
+				-125.2733353
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Castlegar and District Community Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.3148736,
+				-117.6610027
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Chemainus Health Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.9270909,
+				-123.7156895
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Chetwynd General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				55.6963062,
+				-121.6444953
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Chilliwack General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.1669125,
+				-121.9639409
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Dr. Helmcken Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.6453419,
+				-120.0181828
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Joseph's General Hospital (Comox Valley)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.6744637,
+				-124.9415684
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Belvedere Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2404207,
+				-122.8782529
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Riverview Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				40.0456899,
+				-86.0243137
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "East Kootenay Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.5123507,
+				-115.7497563
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Creston Valley Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.097276,
+				-116.507811
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Dawson Creek and District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				55.7497747,
+				-120.2353793
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Delta Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				38.7446594,
+				-108.0483035
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Cowichan District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.7855152,
+				-123.7228499
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Elk Valley Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.5136918,
+				-115.0560315
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Fort Nelson General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				58.8084698,
+				-122.7023651
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Stuart Lake General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.4404467,
+				-124.2417569
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Fort St. John General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				56.2560509,
+				-120.8166368
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Peace Lutheran Extended Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.2929885,
+				-96.7704857
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lady Minto Gulf Islands Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.861529,
+				-123.508555
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Golden and District General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.2967771,
+				-116.9673661
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Boundary Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.702117,
+				-116.3210957
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Wrinch Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				55.2595756,
+				-127.651258
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Fraser Canyon Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.3768382,
+				-121.4242746
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Invermere and District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.5067544,
+				-116.0334123
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Overlander Extended Care Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.7035566,
+				-120.397367
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Royal Inland Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.6702645,
+				-120.3346075
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Victorian Community Health Centre of Kaslo"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.913531,
+				-116.9139704
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Kelowna General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.8736291,
+				-119.4914029
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Kitimat General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.0502849,
+				-128.6475914
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Ladysmith and District General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.9957413,
+				-123.8276341
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Langley Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.0955344,
+				-122.612321
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lillooet District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.6893791,
+				-121.9396484
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St Bartholomew's Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.5167628,
+				-0.0986751
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Mackenzie and District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				55.3375782,
+				-123.1006479
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Ridge Meadows Hospital & Health Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2153963,
+				-122.6299013
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Queen Charlotte Islands General Hospital – Masset Site"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.0204495,
+				-132.1570757
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "McBride and District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.3011881,
+				-120.1613919
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Nicola Valley Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.121172,
+				-120.772629
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Mission Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				35.5767592,
+				-82.5489786
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Arrow Lakes Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.2387294,
+				-117.7952257
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Nanaimo Regional General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.1848927,
+				-123.9705084
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Kootenay Lake Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.4950249,
+				-117.2848169
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Mount St. Francis Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				32.8777217,
+				-79.7692349
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Slocan Community Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.9843134,
+				-117.3739813
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Queen's Park Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2168676,
+				-122.9022669
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Royal Columbian Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.226319,
+				-122.891457
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lions Gate Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.3208802,
+				-123.0684299
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "South Okanagan General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.1836331,
+				-119.5388854
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "100 Mile District General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.6386083,
+				-121.2921997
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Trillium Lodge"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.2961325,
+				-79.0987935
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Penticton Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.481348,
+				-119.5778939
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "West Coast General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2487383,
+				-124.7820438
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Port Alice Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.4255573,
+				-127.4873088
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Port Hardy Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.7200118,
+				-127.5029085
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Port McNeill and District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.5804529,
+				-127.0673242
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Eagle Ridge Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.285505,
+				-122.8235798
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Pouce Coupe Care Home"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				55.7160288,
+				-120.1340567
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Powell River General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.8508263,
+				-124.5183911
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Prince George Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.9118016,
+				-122.7641906
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Prince Rupert Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.3054808,
+				-130.3322043
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Princeton General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.4534166,
+				-120.526963
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Eagle Park Health Care Facility"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.343715,
+				-124.4509269
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Queen Charlotte Islands General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.2547886,
+				-132.0705443
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "G.R. Baker Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.98153,
+				-122.4996475
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Queen Victoria Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.1352768,
+				-0.0021189
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Richmond Hospital (RGH)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.1686899,
+				-123.1469364
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Saanich Peninsula Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.5944725,
+				-123.4105954
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Shuswap Lake General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.7044229,
+				-119.274541
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Bulkley Valley District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.7849195,
+				-127.1638093
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Sparwood Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.7214152,
+				-114.8925148
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Squamish General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.697583,
+				-123.141414
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Stewart Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.8812158,
+				-127.7376901
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Summerland Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.6012316,
+				-119.6686749
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Surrey Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.1759547,
+				-122.8413971
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Mills Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				35.6094846,
+				-99.6715086
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Tofino General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.1514708,
+				-125.908611
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Kootenay Boundary Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.1031799,
+				-117.7014705
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Amherst Hospital & Nursing Home"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				41.39907,
+				-82.2237529
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "BC Cancer Agency"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2619726,
+				-123.1188976
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "British Columbia's Children's Hospital & Sunny Hill Health Centre for Children"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2447354,
+				-123.1256478
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "B.C. Women's Hospital & Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2433464,
+				-123.1245036
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Braddan Private Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2697827,
+				-123.1610209
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Cambie Surgery Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2597649,
+				-123.117409
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "George Pearson Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2187604,
+				-123.1210139
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "G. F. Strong Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2474716,
+				-123.1255961
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Holy Family Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.7098478,
+				-117.4071302
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Kensington Private Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				38.9294418,
+				-77.0147304
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lakeview Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2535718,
+				-123.0665398
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Louis Brier Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2344818,
+				-123.1292635
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Marion Hospice"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				29.154082,
+				-82.177059
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Mary Pack Arthritis Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2626209,
+				-123.1238256
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Mount Saint Joseph Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2578335,
+				-123.0950334
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Normandy Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				38.7092516,
+				-90.300193
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Paul's Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.280516,
+				-123.1281872
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Vincent's Hospitals"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.2649772,
+				-71.7964208
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Honoria Conway-Heather"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2417105,
+				-123.1211813
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Brock Fahrni Pavilion"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2432106,
+				-123.123376
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Langara"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2245678,
+				-123.108437
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Shriners Hospitals for Children"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				39.137305,
+				-84.501196
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Sunny Hill Health Centre for Children"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2519743,
+				-123.0482504
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Vancouver Hospital and Health Sciences Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.261616,
+				-123.1239113
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "U.B.C. Health Sciences Centre Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.262361,
+				-123.244944
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Vancouver General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.261616,
+				-123.1239113
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. John Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.420024,
+				-82.915086
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Vernon Jubilee Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.2569212,
+				-119.2716437
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Juan de Fuca Hospitals"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.434594,
+				-123.4926663
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Aberdeen Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.9792513,
+				-123.8471278
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Mt. Tolmie Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.459924,
+				-123.330454
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Glengarry Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.3056471,
+				-74.643967
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Priory Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.4458,
+				-123.487787
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Queen Alexandra Centre for Children's Health"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.4716504,
+				-123.299937
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Royal Jubilee Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.433154,
+				-123.3280209
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Gorge Road Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.4422096,
+				-123.3883524
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Victoria General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.4667736,
+				-123.4329307
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "R.W. Large Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.1612727,
+				-128.143339
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Whistler Health Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.1200049,
+				-122.9551092
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Peace Arch Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.0302546,
+				-122.7922331
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Cariboo Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.1373392,
+				-122.14359
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Altona Community Memorial Health Centre / Eastview Place"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.1074008,
+				-97.5507187
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Beausejour Hospital District NO. 29"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.0578965,
+				-96.5200145
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Brandon Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				27.932749,
+				-82.2876385
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Thompson General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				55.7352841,
+				-97.8566184
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Selkirk & District General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.5319998,
+				-73.7985008
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Bethesda Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				26.5046638,
+				-80.0697853
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Boundary Trails Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.1895596,
+				-98.0032883
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "The Children's Hospital of Winnipeg"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.9040452,
+				-97.1570992
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Concordia Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.9134986,
+				-97.0646308
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Deer Lodge Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.8779998,
+				-97.2355202
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Grace Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				35.7261096,
+				-81.6541622
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Health Sciences Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.9030599,
+				-97.157404
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Misericordia Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.8796446,
+				-97.1605727
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Riverview Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.8689077,
+				-97.1200033
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Saint Boniface General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.8842264,
+				-97.1248482
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Seven Oaks General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.954856,
+				-97.149677
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Baie Verte Peninsula Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.9254547,
+				-56.2219125
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Bonavista Peninsula Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.6477578,
+				-53.1063735
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Bonne Bay Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.5367665,
+				-57.8752415
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Dr. Hugh Twomey Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.1472855,
+				-55.3564971
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Brookfield Bonnews Health Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.1347919,
+				-53.5907482
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "A.M Guy Memorial Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.8236446,
+				-56.8577203
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Calder Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.6139767,
+				-57.6223095
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Burin Peninsula Health Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.1048745,
+				-55.194713
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Carbonear General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.7261908,
+				-53.2261528
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Charlottetown Community Clinic"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.2313746,
+				-63.1299078
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Dr. G.B. Cross Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.1649933,
+				-53.9844029
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Dr. J. I. O'Connell Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				41.6857974,
+				-83.5534518
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Western Memorial Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.9485018,
+				-57.9305905
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Strait of Belle Isle Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.3080732,
+				-56.7149754
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Fogo Island Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.6655689,
+				-54.2245912
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Labrador South Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.473889,
+				-56.960102
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "James Paton Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.955791,
+				-54.6287226
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Grand Bank Community Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.0947065,
+				-55.7615698
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Central Newfoundland Regional Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.933861,
+				-55.6443049
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Green Bay Community Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.5228748,
+				-87.9249894
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Labrador Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.9493487,
+				-66.9329877
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Connaigre Peninsula Community Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.4680039,
+				-55.8273148
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Harbour Deep Community Clinic"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				33.7372098,
+				-118.2807352
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hermitage Clinic"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.3594171,
+				-6.4067845
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "La Scie Medical Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				39.1408554,
+				-84.5019783
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Captain William Jackman Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.9493487,
+				-66.9329877
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lewisporte Lab & X-Ray Clinic"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2470038,
+				-55.0670461
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Mary's Harbour Community Clinic"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				37.5833747,
+				-77.5122249
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "McCallum Visiting Clinic"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.0472262,
+				-122.2938467
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Bay D'Espoir Medical Clinic"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.8771889,
+				-55.8450066
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Mount Carmel Medical Clinic"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				39.840175,
+				-83.0727599
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Dr. A.A. Wilkinson Memorial Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.071582,
+				-53.0050695
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Placentia Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				33.8888781,
+				-117.8449464
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Dr. Charles L. Legrow Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.5887708,
+				-59.1629812
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Port Hope Simpson Community Clinic"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.541525,
+				-56.171882
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Rufus Guinchard Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.6496305,
+				-57.3053633
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Mose Ambrose Clinic"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.466287,
+				-55.500588
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Rencontre Clinic"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.1054935,
+				-77.794492
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "White Bay Central Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.8676122,
+				-56.1141444
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Dr. Charles S. Curtis Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.3623223,
+				-55.5869794
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Dr. Leonard A. Miller Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.5741532,
+				-52.6946892
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Dr. Walter Templeman Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.6456833,
+				-52.9469798
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "General Hospital, Health Sciences Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.4247203,
+				-89.2690972
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Janeway Children's Health and Rehabilitation Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.5726027,
+				-52.7426791
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Clare's Mercy Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.5575975,
+				-52.7214064
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Waterford Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.2486212,
+				-7.078132
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "U.S. Memorial Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.9300113,
+				-55.3991252
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Lewis Community Clinic"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				38.7079633,
+				-90.312488
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Mary's Bay Medical Clinic"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.989551,
+				-87.883736
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Sir Thomas Roddick Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.5599176,
+				-58.5526335
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Notre Dame Bay Memorial Health Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.6531276,
+				-54.7571615
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Dr. W.H. Newhook Community Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.4188555,
+				-53.5310353
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Fort Simpson Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				37.8299525,
+				-94.7131562
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Fort Smith Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				35.3724952,
+				-94.38976
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "H.H. Williams Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.9785144,
+				-88.9411641
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Inuvik Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				68.35406,
+				-133.7035139
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Stanton Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				62.4474052,
+				-114.4046685
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Cumberland Regional Health Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.804172,
+				-64.1973709
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Martha's Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.6281633,
+				-61.9820817
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "South Shore Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.383167,
+				-64.5105951
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Digby General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.6165379,
+				-65.7619082
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Strait Richmond Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.617084,
+				-61.222926
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Dartmouth"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.7044406,
+				-72.2886935
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Dartmouth General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.6540418,
+				-63.5476657
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Nova Scotia Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.653468,
+				-63.549254
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "East Coast Forensic Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.7213432,
+				-63.5916341
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Halifax Peninsula"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.6363774,
+				-63.5692933
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "IWK Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.6372597,
+				-63.5842288
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Queen Elizabeth II Health Sciences Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.6453959,
+				-63.587669
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lower Sackville"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.7764086,
+				-63.6791223
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Cobequid Community Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.7571004,
+				-63.6587676
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Middle Musquodoboit"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.04539,
+				-63.143283
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Musquodoboit Valley Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.040326,
+				-63.140478
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Musquodoboit Harbour"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.787241,
+				-63.148104
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Twin Oaks Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.783052,
+				-63.158434
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Sheet Harbour"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.9278509,
+				-62.544239
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Eastern Shore Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				37.6981718,
+				-75.7232575
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Inverness Consolidated Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.2270232,
+				-61.3048427
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Valley Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				25.9777507,
+				-97.5147772
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Queens General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				40.7179213,
+				-73.8057095
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Soldiers Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.604786,
+				-79.4253192
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Buchanan Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.8105004,
+				-60.334162
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Northside General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				34.178669,
+				-84.140388
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "North Cumberland Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.856089,
+				-63.6588594
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Roseway Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.7492375,
+				-65.3102229
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Cape Breton Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.1129416,
+				-60.1742756
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lillian Fraser Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.711322,
+				-63.2962175
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Colchester Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.9097902,
+				0.8986689
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Yarmouth Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.8517741,
+				-66.1211537
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Qikiqtani General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				63.7505335,
+				-68.5096799
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Rouge Valley Ajax and Pickering"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.8372881,
+				-79.017015
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Glengarry Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.3056471,
+				-74.643967
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Stevenson Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.1546874,
+				-79.87364
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Atikokan General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.7539997,
+				-91.5975236
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "North Hastings Hospital (Quinte Health Care)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.0551841,
+				-77.8641876
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Royal Victoria Regional Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.4157075,
+				-79.6595976
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Francis Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				37.7897703,
+				-122.4167064
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Belleville General Hospital (Quinte Health Care)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.1627054,
+				-77.3643232
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lakeridge Health Bowmanville"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.9089402,
+				-78.6790495
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "South Muskoka Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.0475824,
+				-79.3143266
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Brampton Civic Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.7463347,
+				-79.7440096
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Brampton Memorial Hospital Campus"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.6906684,
+				-79.7510219
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Brockville General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.5971245,
+				-75.681811
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Brantford General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.1525048,
+				-80.276363
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Joseph Brant Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.3172845,
+				-79.8025363
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Cambridge Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.3783294,
+				-80.3285818
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Campbellford Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.3123981,
+				-77.7900235
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Carlton Place & District Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				33.9650202,
+				-117.3615895
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Public General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.4052106,
+				-82.1934851
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Northumberland Hills Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.9777481,
+				-78.1984374
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Collingwood General And Marine Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.4995016,
+				-80.2034069
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Community Hospital McConnell Site"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.0300809,
+				-74.7183579
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Dryden Regional Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.76956,
+				-92.83864
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Haldimand War Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.9049669,
+				-79.6248502
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Durham Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.1794221,
+				-80.8284664
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Englehart and District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.823199,
+				-79.8795739
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Espanola General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				35.997207,
+				-106.087765
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Groves Memorial Community Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.705468,
+				-80.373079
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Niagara Health System - Douglas Memorial Hospital Site"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.9124531,
+				-78.9241185
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Georgetown Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				38.9116562,
+				-77.0756259
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Geraldton District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.7233358,
+				-86.9552627
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Alexandra Marine and General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.7499154,
+				-81.7059159
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "West Lincoln Memorial Hospital-Hamilton Health Sciences"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.1881614,
+				-79.5420391
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Guelph General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.5561245,
+				-80.2532892
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Homewood Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.557479,
+				-80.2565971
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Joseph's Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.6396798,
+				-79.450349
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hagersville West Haldimand General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.9584936,
+				-80.0446861
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Haliburton Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.0384978,
+				-78.5297393
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hamilton Health Sciences"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.259511,
+				-79.9174083
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Chedoke Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.2442297,
+				-79.9139278
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hamilton General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.2617528,
+				-79.8543243
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Henderson General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				36.0728094,
+				-115.0305292
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Juravinski Cancer Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.2395361,
+				-79.8462655
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "McMaster Children's Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.259511,
+				-79.9174083
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "McMaster University Medical Centre (affiliated with McMaster University)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.259609,
+				-79.9175167
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Joseph's Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.7493836,
+				-71.4803099
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "King Site"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5585387,
+				-122.6585013
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Charlton Campus"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.2484073,
+				-79.8712271
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "West 5th"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.2409544,
+				-79.8848233
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Peter's Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.6557957,
+				-73.8038974
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hanover and District Hospital[1]"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.1421297,
+				-81.029398
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôpital Général de Hawkesbury & District General Hospital Inc."
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5996186,
+				-74.6074136
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôpital Notre-Dame Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5256418,
+				-73.5641782
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Huntsville Memorial District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				30.6985454,
+				-95.5590552
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Alexandra Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				1.2866021,
+				103.8010462
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Sensenbrenner hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.4256232,
+				-82.4275767
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Ross Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.3531975,
+				-78.750836
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lake Of The Woods District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.7680773,
+				-94.4994285
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Kincardine South Bruce Grey Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.1890238,
+				-81.6254754
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Kingston General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.224284,
+				-76.4927891
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hotel Dieu"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				33.8805433,
+				35.5192654
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Providence Continuing Care Centre (PCCC)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.217951,
+				-76.5267759
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Kirkland and District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.1534486,
+				-80.0146987
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Grand River Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.4563405,
+				-80.5121785
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Mary's General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				40.8593168,
+				-74.1375757
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Manitoulin Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.9785473,
+				-81.9266197
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "London Health Sciences Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.960348,
+				-81.226628
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Children's Hospital at London Health Sciences Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.960246,
+				-81.227075
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "University Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				41.5060157,
+				-81.6068397
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Victoria Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.9604271,
+				-81.2259041
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Joseph's Health Care, London"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.000852,
+				-81.254603
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Parkwood Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				34.9612834,
+				-89.8456536
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Manitouwadge General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.1276584,
+				-85.8246914
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Wilson Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				40.2865252,
+				-84.1692397
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Grey Bruce Health Services"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.493845,
+				-81.3657022
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Georgian Bay General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.7693002,
+				-79.9294473
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Milton District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.4963633,
+				-79.8711884
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Mindemoya Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.7350016,
+				-82.1671333
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Minden Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				32.616919,
+				-93.2860957
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Credit Valley Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.559283,
+				-79.702419
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Mississauga Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.5713426,
+				-79.6083555
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Moose Factory Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.2495045,
+				-80.6173666
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Louise Marshall Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.9745666,
+				-80.7376401
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lennox & Addington County General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				32.9803874,
+				-96.7603576
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Niagara Health System - Greater Niagara General Site"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.0936588,
+				-79.0909066
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Niagara Health System - Niagara-on-the-Lake Hospital Site"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.253223,
+				-79.066117
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Nipigon District Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.0157251,
+				-88.2764877
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "North Bay Regional Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.335513,
+				-79.499189
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Oakville-Trafalgar Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.4512015,
+				-79.7644086
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Headwaters Health Care Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.9196258,
+				-80.0741046
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Soldiers' Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.604786,
+				-79.4253192
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lakeridge Health Oshawa"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.9056023,
+				-78.8692316
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Children's Hospital of Eastern Ontario (CHEO)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.400879,
+				-75.6520144
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Montfort Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.445554,
+				-75.6391718
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "National Defence Medical Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4012815,
+				-75.6580045
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "The Ottawa Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4008764,
+				-75.6478808
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Civic Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.392674,
+				-75.7214181
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				27.9379842,
+				-82.4591662
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Riverside Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				40.0308102,
+				-83.0347647
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Queensway-Carleton Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.3351231,
+				-75.8078316
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "University of Ottawa Heart Institute"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.3941057,
+				-75.7206326
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Royal Ottawa Mental Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.3890056,
+				-75.7301564
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Palmerston & District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				-12.4784614,
+				130.9851852
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "West Parry Sound Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.3406114,
+				-80.0168164
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Pembroke Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.8141184,
+				-77.1067994
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Great War Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.9061781,
+				-76.2528687
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Peterborough Regional Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.299994,
+				-78.347598
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Charlotte Eleanor Englehart Hospital of Bluewater Health"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.8783136,
+				-82.1468271
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Niagara Health System - Port Colborne General Site"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.8797823,
+				-79.2596002
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lakeridge Health Port Perry"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.1048881,
+				-78.9548393
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Margaret Cochenour Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.0132617,
+				-93.8224349
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Renfrew Victoria Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.482528,
+				-76.6966868
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Bluewater Health"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.9773664,
+				-82.3905476
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Sault Area Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.549151,
+				-84.310791
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Norfolk General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				36.862424,
+				-76.303586
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Smith Falls Community Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.9069239,
+				-76.0264912
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hotel Dieu Shaver Health and Rehabilitation Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.1222005,
+				-79.2423182
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Niagara Health System"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.1527122,
+				-79.278481
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Ontario Street Site"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				41.651781,
+				-88.1053261
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St.Catharines General Site"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.1527122,
+				-79.278481
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Matthews Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.2935044,
+				-84.0351684
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "West Nipissing General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.3722814,
+				-79.9162031
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Thomas Elgin General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.7629157,
+				-81.1808885
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Stratford General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.367981,
+				-80.9955851
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Health Sciences North"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.4679415,
+				-80.9962787
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Temiskaming Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.4950831,
+				-79.693052
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Thunder Bay Regional Health Sciences Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.4247203,
+				-89.2690972
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Timmins & District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.4758208,
+				-81.3304953
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Bellwood Health Services"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.7198184,
+				-79.3656219
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Clarke Institute of Psychiatry"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.6585588,
+				-79.3990409
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Etobicoke General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.7293874,
+				-79.5981715
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hospital for Sick Children"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				38.941347,
+				-76.9811919
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Humber River Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.7241286,
+				-79.4880383
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "North York General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.7694457,
+				-79.3625064
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "North York General Hospital - Branson"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.7718726,
+				-79.4474386
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Queensway Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.5713426,
+				-79.6083555
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Rouge Valley Centenary (Rouge Valley Health System)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.8372881,
+				-79.017015
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Scarborough Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.7565273,
+				-79.247877
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Scarborough Hospital - Grace"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.8018517,
+				-79.3090285
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Sinai Health System"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				41.8610295,
+				-87.6940842
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Baycrest"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.7300068,
+				-79.4342381
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Mount Sinai Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				40.7900393,
+				-73.9522547
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. John's Rehab Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.7878363,
+				-79.4047221
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "St. Michael's Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.6529691,
+				-79.3776369
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Sunnybrook Health Sciences Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.7216064,
+				-79.3759228
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Toronto East General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.6899188,
+				-79.3246285
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Toronto Grace Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.6703605,
+				-79.3832185
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "University Health Network"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.656765,
+				-79.3900098
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Princess Margaret Cancer Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.658224,
+				-79.3906162
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Toronto General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.6583897,
+				-79.3889679
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Toronto Rehabilitation Institute"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.6566603,
+				-79.3899178
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Toronto Western Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.6534469,
+				-79.4055131
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Women's College Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.6616205,
+				-79.3876364
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Trenton Memorial Hospital (Quinte Health Care)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.0993832,
+				-77.5882092
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Uxbridge Cottage Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.1028495,
+				-79.1274051
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "South Bruce Grey Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.298492,
+				-81.093232
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Chatham-Kent Health Alliance, Sydenham Campus"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.5984682,
+				-82.3668708
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Niagara Health System - Welland County General Site"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.9798362,
+				-79.2485369
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Windsor Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.3004058,
+				-82.99723
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôtel-Dieu Grace Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.286284,
+				-83.063388
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Wingham and District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.8848,
+				-81.306698
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Woodstock General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.1062903,
+				-80.7530616
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Markham Stouffville Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.8840893,
+				-79.2312898
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Mackenzie Richmond Hill Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.8705543,
+				-79.4503689
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Mackenzie Vaughan Hospital (future)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.8642494,
+				-79.4687542
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Shouldice Hernia Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.8206976,
+				-79.4042384
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Southlake Regional Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.0606295,
+				-79.4524249
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Western Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.6534469,
+				-79.4055131
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hillsborough Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				36.036728,
+				-79.0909361
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Queen Elizabeth Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.474492,
+				-73.606699
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Kings County Memorial"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.170365,
+				-62.6551813
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Community Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				41.5505347,
+				-87.5069983
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Souris Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.614677,
+				-100.2491169
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Prince County Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.4173747,
+				-63.7729442
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Stewart Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.2656737,
+				-94.7494639
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôpital de Gatineau"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.493269,
+				-75.691219
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôpital de Hull"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4444231,
+				-75.7460216
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Cité de la Santé de Laval"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.6028649,
+				-73.7104968
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Jewish Rehabilitation Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5485463,
+				-73.7377141
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôpital Charles-LeMoyne (affiliated to Université de Sherbrooke)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4969984,
+				-73.4859921
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre hospitalier Pierre-Boucher"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5382727,
+				-73.4585635
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre hospitalier Angrignon"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.420933,
+				-73.6231613
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre hospitalier de Fleury"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5718874,
+				-73.6499032
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre hospitalier de Lachine"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4408829,
+				-73.6774665
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre hospitalier de LaSalle"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.420933,
+				-73.6231613
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre hospitalier de Mont-Sinaï"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4740072,
+				-73.6574353
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre hospitalier de St-Mary"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4947307,
+				-73.6240597
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre hospitalier de Verdun"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4640344,
+				-73.5636524
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre hospitalier juif de l'Espérance"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4929585,
+				-73.6337722
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre hospitalier Richardson"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.471888,
+				-73.6460172
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre hospitalier de l'Université de Montréal"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5139877,
+				-73.5777193
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôtel-Dieu de Montréal"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5139877,
+				-73.5777193
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôpital Notre-Dame"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5256418,
+				-73.5641782
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôpital Saint-Luc"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.511445,
+				-73.55813
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre hospitalier universitaire Sainte-Justine (affiliated to the Université de Montréal but independent from the Centre hospitalier de l'Université de Montréal)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5056156,
+				-73.6137592
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre de réadaptation Marie-Enfant"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5752662,
+				-73.577215
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre hospitalier Ville Émard"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4546353,
+				-73.5948519
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôpital du Sacré-Cœur de Montréal"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5325192,
+				-73.7141048
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôpital Jean-Talon"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5457252,
+				-73.6093085
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Institut universitaire en santé mentale de Montréal (previously known as Hôpital Louis-H. Lafontaine)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5907711,
+				-73.5311598
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôpital Maisonneuve-Rosemont"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.573742,
+				-73.559823
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôpital Rivière-des-Prairies"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.6234668,
+				-73.6119644
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôpital Santa Cabrini"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.580136,
+				-73.571491
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Jewish General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4987067,
+				-73.6283106
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lakeshore General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4487003,
+				-73.8332649
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "McGill University Health Centre (MUHC)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4728825,
+				-73.6017703
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Montreal Children's Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4725822,
+				-73.6017873
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Montreal General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4970688,
+				-73.5893765
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Montreal Neurological Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5089963,
+				-73.5813729
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Douglas Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				33.7390326,
+				-84.7314746
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Royal Victoria Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4729767,
+				-73.6013656
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Allan Memorial Institute"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.506025,
+				-73.5821668
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Montreal Chest Institute"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4745881,
+				-73.5985687
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Montreal Heart Institute"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5739331,
+				-73.5778159
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Shriners Hospital for Children – Canada"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4718127,
+				-73.6018115
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre hospitalier Honoré-Mercier"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.6334388,
+				-72.9603455
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Barrie Memorial Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.1262482,
+				-73.9998984
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre hospitalier universitaire de Québec (CHUQ)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.8154181,
+				-71.2106563
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôtel-Dieu de Québec"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.8152882,
+				-71.2108399
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôpital Saint-François d’Assise"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.827533,
+				-71.236389
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre hospitalier de l'Université Laval (CHUL)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.7686347,
+				-71.2825262
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre hospitalier affilié universitaire de Québec (CHA)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.8372167,
+				-71.2264263
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôpital de l’Enfant-Jésus"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.837912,
+				-71.2259638
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôpital du Saint-Sacrement"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.7993801,
+				-71.2464927
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Institut universitaire de cardiologie et de pneumologie de Québec (IUCPQ)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.7790343,
+				-71.2977055
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôtel-Dieu de St. Jèrôme"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.7658895,
+				-74.0001726
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Hôpital du Suroît"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.250905,
+				-74.1307026
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Centre hospitalier universitaire de Sherbrooke (CHUS)"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.3982305,
+				-71.8790246
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Assiniboia Union Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.6286569,
+				-105.9831724
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Balcarres Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.8030247,
+				-103.5508482
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Big River Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				34.14732,
+				-114.3019643
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Broadview Union Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.3739021,
+				-102.5846546
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Canora Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.6255101,
+				-102.4405574
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Carrot River Union Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				40.515302,
+				-81.455707
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Cupar Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				56.3242812,
+				-3.0182181
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Davidson Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				35.4493168,
+				-80.785239
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Fillmore Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.879067,
+				-103.4361106
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Foam Lake Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.6413178,
+				-103.5229672
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "L. Gervais Memorial Hospital Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.3996863,
+				-109.2264723
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Humboldt District Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.2124959,
+				-105.1210596
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Kamsack Union Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.5574177,
+				-101.8874913
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Kerrobert Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.9135803,
+				-109.1318555
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Kindersley Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.4711092,
+				-109.1644159
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "La Ronge Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				55.105088,
+				-105.2896681
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lanigan Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.8514257,
+				-105.023926
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Leader Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				26.0439997,
+				-80.2729199
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Lloydminster Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.2724701,
+				-109.9895381
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Loon Lake Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.063031,
+				-117.630195
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Maidstone Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.273694,
+				0.484042
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Maple Creek Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.9030517,
+				-109.4876933
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Meadow Lake Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				36.372101,
+				-97.892348
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Melfort Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.8657324,
+				-104.6146323
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Moose Jaw Union Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.4188317,
+				-105.5247479
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Nipawin Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.3559551,
+				-104.0038797
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Battlefords Union Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.7727402,
+				-108.2886807
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Redvers Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.5727468,
+				-101.6942135
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Regina General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.4438603,
+				-104.6016595
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Pasqua Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.4542219,
+				-104.63876
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Royal University Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.1314511,
+				-106.6412713
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Saskatoon City Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.1359669,
+				-106.6538178
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Swift Current Regional Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.310971,
+				-107.775572
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "York Regional Health Centre"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.0454639,
+				-79.4686442
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Whitehorse General Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				60.7192939,
+				-135.0436462
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Watson Lake Community Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				60.0705482,
+				-128.7105289
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"title": "Dawson City Community Hospital"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				64.0566577,
+				-139.434127
+			]
+		}
+	}
+	]	
+}

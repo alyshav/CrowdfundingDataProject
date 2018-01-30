@@ -3,6 +3,10 @@
 
 This repository contains scripts and other files I write to be share with team members for the Geog 455W course offering in Spring 2018.
 
+# Setup
+run the following installations:
+pip install beautifulsoup4
+
 # Descriptions
 
 1) CanadianHospitalLocator.py: Used to create a list of Canadian hospitals, geocode entries, and create a geojson containing these points in preparation for use with mapbox
