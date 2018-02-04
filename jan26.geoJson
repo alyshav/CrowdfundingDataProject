@@ -1,4 +1,4 @@
-{
+{	
 	"type":"FeatureCollection",
 	"features": [
 	{
@@ -2820,7 +2820,7 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"title": ""Kindness Matters"",
+			"title": "Kindness Matters",
 			"marker-color": "green",
 			"raisedcurrent": "12270",
 			"raisedgoal": "10000",
@@ -3480,7 +3480,7 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"title": "Vern "Santa Claus" Garnett",
+			"title": "Vern 'Santa Claus' Garnett",
 			"marker-color": "green",
 			"raisedcurrent": "1525",
 			"raisedgoal": "5000",
@@ -6714,7 +6714,7 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"title": "Helping "TEAM SHAN" Help Young Women!",
+			"title": "Helping 'TEAM SHAN' Help Young Women!",
 			"marker-color": "pink",
 			"raisedcurrent": "635",
 			"raisedgoal": "2500",
@@ -7660,7 +7660,7 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"title": ""Live like you were dying"",
+			"title": "Live like you were dying",
 			"marker-color": "pink",
 			"raisedcurrent": "635",
 			"raisedgoal": "2000",
@@ -16746,7 +16746,7 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"title": "Gabriela's "Tough Cookie"  HLC Fund",
+			"title": "Gabriela's 'Tough Cookie'  HLC Fund",
 			"marker-color": "green",
 			"raisedcurrent": "13035",
 			"raisedgoal": "15000",
@@ -20684,7 +20684,7 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"title": "Chris "Tenbear" Cyr Cancer Support",
+			"title": "Chris 'Tenbear' Cyr Cancer Support",
 			"marker-color": "navy",
 			"raisedcurrent": "4035",
 			"raisedgoal": "10000",
@@ -38966,7 +38966,7 @@
 	{
 		"type": "Feature",
 		"properties": {
-			"title": "Karen's medical fund "Shout Pink"",
+			"title": "Karen's medical fund 'Shout Pink'",
 			"marker-color": "pink",
 			"raisedcurrent": "2925",
 			"raisedgoal": "8000",
