@@ -25,8 +25,3 @@ The following are standalone scripts written for various purposes within the Geo
 
 **Text Mining Data Pre-Processing**
 + gofundme_feature_extraction.py: Used to select specific features from the gofundmedata (for the purpose of the text-mining method)
-
-**ArcPy - Calculate Percent Area Shared and Compute Weighted Values**
-+ working on multithreading this still
-+ single_threaded_ada_to_fsa_percent: Used to calculate the percent of area each ADA occupies within each FSA. Example: an ADA with FID 1 comprises 55% of FSA with FID 15. We add 0.55 to the relationship matrix at m[FSA_FID][ADA_FID] to use in adding weighted attribute values we want to compute later.
-+ single_threaded_addweights.py: Used to add weighted attribute values based on relationship matrix values previously computed
