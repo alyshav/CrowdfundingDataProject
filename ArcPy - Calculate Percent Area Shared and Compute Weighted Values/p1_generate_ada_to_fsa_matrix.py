@@ -80,7 +80,7 @@ with open(basepath+"output.csv", "w") as f:
         for a in arcpy.da.SearchCursor(FSAselection, "Shape_Area"):
             area = float(a[0])
 
-        # Iterates through the DAs that intersect with the currently selected FSA:    
+        # Iterates through the ADAs that intersect with the currently selected FSA:    
         for row in arcpy.SearchCursor(ADAselection):
             adaentry_fid = row.fid
             arcpy.MakeFeatureLayer_management(ADAselection, tempADAlyr)
