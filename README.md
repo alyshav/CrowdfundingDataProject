@@ -25,3 +25,6 @@ The following are standalone scripts written for various purposes within the Geo
 
 **Text Mining Data Pre-Processing**
 + gofundme_feature_extraction.py: Used to select specific features from the gofundmedata (for the purpose of the text-mining method)
+
+**Computing weighted census data for FSAs**
++ https://github.com/alyshav/ArcPy-Calculate-Percent-Area-Shared-and-Compute-Weighted-Values 
