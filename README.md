@@ -16,7 +16,7 @@ The following are standalone scripts written for various purposes within the Geo
 **Canadian Hospital Dataset Creation & Geocoding**
 + CanadianHospitalLocator.py: Used to create a list of Canadian hospitals, geocode entries, and create a geojson containing these points in preparation for use with mapbox
 
-**Campaign Geocoder for EDSA**
+**Campaign Geocoder for ESDA**
 + addlatlong_to_gofundmedata.py: Used to add latitude and longitude fields to GoFundMe datasets
 + csv_to_geojson.py: Used to convert GoFundMe entries to geojson for use with Mapbox
 
