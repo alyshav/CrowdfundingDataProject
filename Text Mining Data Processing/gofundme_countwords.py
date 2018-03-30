@@ -44,8 +44,8 @@ for row in reader:
     rowcount+=1
 f.close()
  
-#f = open('C:/Users/Alysha/Documents/455/textmining/textmining_descriptions.csv')
-f = open('C:/Users/Alysha/Documents/455/textmining/textmining_titles.csv')
+f = open('C:/Users/Alysha/Documents/455/textmining/textmining_descriptions.csv')
+#f = open('C:/Users/Alysha/Documents/455/textmining/textmining_titles.csv')
 reader = csv.reader(f)
 
 rowcount = 0
@@ -70,18 +70,30 @@ for x in range(0,rowcount-1):
     else:
         dict.update({data[x][0]: data[x][1:]})
 
-with open('C:/Users/Alysha/Documents/455/textmining/textFrequenciesperFSA.csv', 'w') as csvfile:
-    fieldnames = ["Postcode", "MostFrequentTerm", "Count", "Latitude", "Longitude"]
+with open('C:/Users/Alysha/Documents/455/textmining/textmining_descriptions_perfsa.csv', 'w') as csvfile:
+#with open('C:/Users/Alysha/Documents/455/textmining/textmining_titles_perfsa.csv', 'w') as csvfile:    
+    fieldnames = ["Postcode", "MostFrequentTerm1","MostFrequentTerm2","MostFrequentTerm3", "Count1","Count2","Count3", "Latitude", "Longitude"]
     writer = csv.writer(csvfile, lineterminator='\n')
     writer.writerow(fieldnames)
     for j in dict.items():
-       curr = ""
-       maxCount = 0
+       freq1 = "NA"
+       freq2 = "NA"
+       freq3 = "NA"
+       maxCount1 = 0
+       maxCount2 = 0
+       maxCount3 = 0
        for k in range(0,len(j[1])):
-            if j[1][k] >= maxCount:
-                maxCount = j[1][k]
-                curr = freqterms[k]
-       latlng = geocodeOp(j[0]);
-       writer.writerow([j[0], curr, maxCount, latlng[0], latlng[1]])
+            if j[1][k] > maxCount1:
+                maxCount1 = j[1][k]
+                freq1 = freqterms[k]
+            elif j[1][k] > maxCount2:
+                maxCount2 = j[1][k]
+                freq2 = freqterms[k]
+            elif j[1][k] > maxCount3:
+                maxCount3 = j[1][k]
+                freq3 = freqterms[k]
+
+       latlng = geocodeOp(j[0])
+       writer.writerow([j[0], freq1, freq2, freq3,maxCount1,maxCount2,maxCount3, latlng[0], latlng[1]])
 
 
