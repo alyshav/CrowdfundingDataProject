@@ -1,0 +1,2676 @@
+{
+	"type":"FeatureCollection",
+	"features": [
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "P0A,
+			"term": "cancer,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.8377924,
+				-79.0636421
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "P0G,
+			"term": "help,
+			"count": "15"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5609326,
+				-80.22092549999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "P0H,
+			"term": "help,
+			"count": "13"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.59042590000001,
+				-79.6625224
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "P0N,
+			"term": "family,
+			"count": "15"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.63737949999999,
+				-81.371589
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "P0M,
+			"term": "cancer,
+			"count": "37"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.6911387,
+				-82.7212583
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "R0A,
+			"term": "family,
+			"count": "12"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.3219826,
+				-96.9042604
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "P0R,
+			"term": "cancer,
+			"count": "10"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.4583647,
+				-83.03020440000002
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "R0C,
+			"term": "cancer,
+			"count": "29"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.7725397,
+				-97.48188730000001
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "P0P,
+			"term": "cancer,
+			"count": "14"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.9176387,
+				-82.3900591
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "P0W,
+			"term": "family,
+			"count": "5"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.92380989999999,
+				-92.9168143
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "R0G,
+			"term": "time,
+			"count": "6"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2717523,
+				-97.69728459999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "R0H,
+			"term": "time,
+			"count": "11"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.9456296,
+				-98.61657249999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "P0X,
+			"term": "work,
+			"count": "6"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.8689264,
+				-93.96836119999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "R0M,
+			"term": "weeks,
+			"count": "2"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.36332729999999,
+				-100.6506315
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T0G,
+			"term": "time,
+			"count": "6"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				56.40672009999999,
+				-114.8462009
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T0E,
+			"term": "help,
+			"count": "164"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.3021414,
+				-116.8715849
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T0C,
+			"term": "work,
+			"count": "2"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.0267944,
+				-110.9513034
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "S4A,
+			"term": "weeks,
+			"count": "2"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.1472664,
+				-102.9866567
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T0A,
+			"term": "cancer,
+			"count": "18"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.8235292,
+				-111.4816162
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "R8A,
+			"term": "family,
+			"count": "3"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.77693259999999,
+				-101.8448368
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "E6A,
+			"term": "cancer,
+			"count": "8"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.47405570000001,
+				-66.6038926
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T0M,
+			"term": "cancer,
+			"count": "106"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.84919439999999,
+				-113.6333076
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T0K,
+			"term": "cancer,
+			"count": "23"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.3765574,
+				-112.0610072
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T0J,
+			"term": "now,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.2327638,
+				-111.4210178
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "L0P,
+			"term": "cancer,
+			"count": "25"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.540487,
+				-79.96403389999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "L0N,
+			"term": "family,
+			"count": "3"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.906958,
+				-80.03113640000001
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "L0K,
+			"term": "cancer,
+			"count": "6"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.70670639999999,
+				-79.538752
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "L0J,
+			"term": "cancer,
+			"count": "143"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.8363372,
+				-79.87448359999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "L0H,
+			"term": "cancer,
+			"count": "6"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.8956056,
+				-79.08710049999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "L0G,
+			"term": "cancer,
+			"count": "15"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.0386034,
+				-79.60528839999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "L0E,
+			"term": "help,
+			"count": "16"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.2889044,
+				-79.2676668
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "L0C,
+			"term": "cancer,
+			"count": "59"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.2132512,
+				-79.06450559999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "L0B,
+			"term": "cancer,
+			"count": "386"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.01834179999999,
+				-78.6114999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "L0A,
+			"term": "help,
+			"count": "43"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.0750691,
+				-78.4297187
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V6T,
+			"term": "treatment,
+			"count": "3"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2643993,
+				-123.2318586
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "P7A,
+			"term": "help,
+			"count": "21"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.4658307,
+				-89.1817054
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V6E,
+			"term": "friends,
+			"count": "2"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2844627,
+				-123.1302129
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T7E,
+			"term": "cancer,
+			"count": "26"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.5855087,
+				-116.4428615
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "S0J,
+			"term": "help,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				58.33135890000001,
+				-107.0639661
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "L7J,
+			"term": "family,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.63465420000001,
+				-80.0339312
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T7S,
+			"term": "now,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.1276182,
+				-115.6803288
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "J8P,
+			"term": "help,
+			"count": "3"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4845799,
+				-75.61907839999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "L7G,
+			"term": "cancer,
+			"count": "3"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.64442469999999,
+				-79.9024779
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V3N,
+			"term": "support,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2401103,
+				-122.9191026
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "P1A,
+			"term": "help,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.272758,
+				-79.4298653
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "J0A,
+			"term": "cancer,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.8792925,
+				-71.8953598
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "L9Y,
+			"term": "help,
+			"count": "7"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.4940717,
+				-80.2990246
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "J0X,
+			"term": "help,
+			"count": "5"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.2259177,
+				-76.8966354
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "K7S,
+			"term": "time,
+			"count": "18"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4331407,
+				-76.3609305
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T8V,
+			"term": "cancer,
+			"count": "57"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				55.1739502,
+				-118.8104744
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "J9V,
+			"term": "cancer,
+			"count": "8"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.331891,
+				-79.4398511
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "B0C,
+			"term": "cancer,
+			"count": "15"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.7082925,
+				-60.5443362
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "S0C,
+			"term": "family,
+			"count": "6"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.3625605,
+				-103.7439647
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V5A,
+			"term": "cancer,
+			"count": "34"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2686175,
+				-122.9364381
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T8S,
+			"term": "treatments,
+			"count": "5"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				56.214042,
+				-117.3214406
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "J9X,
+			"term": "cancer,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.2363478,
+				-79.01863139999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "S0E,
+			"term": "surgery,
+			"count": "14"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.2270023,
+				-102.7517414
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "G7P,
+			"term": "cancer,
+			"count": "1"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.5556837,
+				-71.3205493
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "S6V,
+			"term": "now,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.198216,
+				-105.7418191
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "N0L,
+			"term": "cancer,
+			"count": "20"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.7273913,
+				-81.295925
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "N0N,
+			"term": "cancer,
+			"count": "7"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.9397941,
+				-82.08429009999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T9H,
+			"term": "cancer,
+			"count": "41"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				56.6939213,
+				-111.3578297
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "B3Z,
+			"term": "cancer,
+			"count": "3"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.6143681,
+				-63.8467277
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "N0E,
+			"term": "help,
+			"count": "56"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.88858159999999,
+				-80.4103957
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "B3R,
+			"term": "cancer,
+			"count": "81"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.5939237,
+				-63.6234094
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "B3S,
+			"term": "treatment,
+			"count": "6"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.6445308,
+				-63.6677131
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "N0C,
+			"term": "treatment,
+			"count": "2"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.2674672,
+				-80.49938569999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "R1A,
+			"term": "cancer,
+			"count": "131"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.1369112,
+				-96.8791564
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "N0B,
+			"term": "cancer,
+			"count": "7"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.647619,
+				-80.32131059999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "N0P,
+			"term": "help,
+			"count": "9"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.4852993,
+				-82.25832969999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "N0R,
+			"term": "cancer,
+			"count": "50"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.1380794,
+				-82.95015579999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "S7H,
+			"term": "cancer,
+			"count": "38"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.1119891,
+				-106.6030107
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "J8T,
+			"term": "work,
+			"count": "1"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4758041,
+				-75.7008264
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "E5K,
+			"term": "cancer,
+			"count": "23"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.3698792,
+				-66.33120199999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "E5J,
+			"term": "life,
+			"count": "14"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.1922691,
+				-66.5166232
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T1L,
+			"term": "help,
+			"count": "6"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.1845319,
+				-115.5722121
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V4K,
+			"term": "treatment,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.0898468,
+				-123.0515798
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "R9A,
+			"term": "years,
+			"count": "1"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.81371859999999,
+				-101.2435634
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "J8A,
+			"term": "cancer,
+			"count": "123"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.9068488,
+				-73.9879507
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T1P,
+			"term": "cancer,
+			"count": "233"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.0376583,
+				-113.3992726
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T1R,
+			"term": "doctors,
+			"count": "5"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				56.130366,
+				-106.346771
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "G4X,
+			"term": "help,
+			"count": "2"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.83001729999999,
+				-64.4897159
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "J8M,
+			"term": "help,
+			"count": "8"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				56.130366,
+				-106.346771
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "E5P,
+			"term": "cancer,
+			"count": "11"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.7571203,
+				-65.6466427
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "E5R,
+			"term": "little,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.4317458,
+				-65.5375013
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T4X,
+			"term": "help,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.348437,
+				-113.4118948
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "A2V,
+			"term": "help,
+			"count": "5"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.93691579999999,
+				-66.92383319999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "L0S,
+			"term": "cancer,
+			"count": "6"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.0410809,
+				-79.3127543
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "K9A,
+			"term": "cancer,
+			"count": "5"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.9686875,
+				-78.17354379999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T4V,
+			"term": "time,
+			"count": "17"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.01821229999999,
+				-112.8299787
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "L0R,
+			"term": "cancer,
+			"count": "93"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.117576,
+				-79.5153773
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "S0H,
+			"term": "cancer,
+			"count": "6"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.0059273,
+				-106.4434108
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T4J,
+			"term": "family,
+			"count": "9"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.688266,
+				-113.5779292
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V3B,
+			"term": "now,
+			"count": "13"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2815819,
+				-122.7535881
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "S0L,
+			"term": "chemo,
+			"count": "3"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.4634771,
+				-109.1726974
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "S0M,
+			"term": "help,
+			"count": "12"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.68755789999999,
+				-108.5723846
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "S0N,
+			"term": "help,
+			"count": "9"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.0742317,
+				-109.2251671
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "N7L,
+			"term": "time,
+			"count": "21"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				42.4177516,
+				-82.19855179999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V3J,
+			"term": "help,
+			"count": "6"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2581338,
+				-122.8627441
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T0H,
+			"term": "thank,
+			"count": "5"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				57.6602121,
+				-118.7005314
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "K9V,
+			"term": "cancer,
+			"count": "43"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.35588509999999,
+				-78.7532884
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T4E,
+			"term": "cancer,
+			"count": "5"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.20278339999999,
+				-113.552493
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "S0G,
+			"term": "work,
+			"count": "5"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.35991809999999,
+				-103.7785031
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "L4R,
+			"term": "cancer,
+			"count": "7"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.7515479,
+				-79.87794989999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "G1J,
+			"term": "cancer,
+			"count": "1"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.8315152,
+				-71.2096176
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "G1A,
+			"term": "cancer,
+			"count": "19"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.8087277,
+				-71.21382969999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "Y1A,
+			"term": "cancer,
+			"count": "16"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				60.76104119999999,
+				-135.1742264
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "K0A,
+			"term": "cancer,
+			"count": "18"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.31739959999999,
+				-75.1832534
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "J7K,
+			"term": "years,
+			"count": "2"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.7485666,
+				-73.6021295
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "K0E,
+			"term": "cancer,
+			"count": "21"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.5111581,
+				-76.00358829999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "K0H,
+			"term": "family,
+			"count": "23"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.7665674,
+				-76.8720416
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "K0J,
+			"term": "friend,
+			"count": "3"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.6383081,
+				-77.1674026
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "K0K,
+			"term": "cancer,
+			"count": "20"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.3806352,
+				-77.4385348
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "K0L,
+			"term": "time,
+			"count": "19"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.7470141,
+				-78.05121280000002
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "K0M,
+			"term": "cancer,
+			"count": "159"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.8856366,
+				-78.6661591
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "E5L,
+			"term": "help,
+			"count": "13"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5705858,
+				-66.7056558
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "R7N,
+			"term": "help,
+			"count": "5"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.1402235,
+				-100.0558961
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V2G,
+			"term": "cancer,
+			"count": "12"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				56.130366,
+				-106.346771
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "S9V,
+			"term": "family,
+			"count": "10"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.2771781,
+				-109.9850455
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V2K,
+			"term": "cancer,
+			"count": "30"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.1016388,
+				-122.832358
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V2J,
+			"term": "help,
+			"count": "8"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.0289718,
+				-122.5701906
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V2M,
+			"term": "life,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.9258575,
+				-122.8871264
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "E5H,
+			"term": "family,
+			"count": "15"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.11444119999999,
+				-66.70473129999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V4G,
+			"term": "help,
+			"count": "3"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.1345934,
+				-123.0005476
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V1K,
+			"term": "help,
+			"count": "3"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.1242986,
+				-120.7942332
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "E5E,
+			"term": "help,
+			"count": "10"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.8900161,
+				-66.9194716
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "J6A,
+			"term": "people,
+			"count": "6"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.7373401,
+				-73.4603149
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "J6E,
+			"term": "cancer,
+			"count": "6"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.0285851,
+				-73.4499872
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "B9A,
+			"term": "help,
+			"count": "12"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.6133355,
+				-61.35313309999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "B4C,
+			"term": "last,
+			"count": "3"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.77012879999999,
+				-63.6537467
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "B4R,
+			"term": "help,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.0642104,
+				-64.5788063
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "B4B,
+			"term": "friend,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.7545444,
+				-63.77170109999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "A0J,
+			"term": "help,
+			"count": "3"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.50786309999999,
+				-56.1676035
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V1B,
+			"term": "family,
+			"count": "23"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.1851618,
+				-119.1051486
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "A0H,
+			"term": "help,
+			"count": "5"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.104051,
+				-56.468182
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "B4A,
+			"term": "cancer,
+			"count": "10"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				44.7287894,
+				-63.6473251
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "A0L,
+			"term": "cancer,
+			"count": "30"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				56.130366,
+				-106.346771
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V1M,
+			"term": "time,
+			"count": "13"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.1674587,
+				-122.5956497
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "A0B,
+			"term": "help,
+			"count": "10"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.3278176,
+				-53.4505056
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "A0C,
+			"term": "support,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.318529,
+				-54.0513815
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V1A,
+			"term": "time,
+			"count": "5"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.6885534,
+				-115.9220734
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "B4H,
+			"term": "cancer,
+			"count": "27"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.8299686,
+				-64.2092372
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "A0E,
+			"term": "help,
+			"count": "3"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.9096419,
+				-54.560267
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "A0A,
+			"term": "cancer,
+			"count": "47"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.05564030000001,
+				-53.2019791
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "E8C,
+			"term": "cancer,
+			"count": "1"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.04942519999999,
+				-66.3951108
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "L6R,
+			"term": "treatment,
+			"count": "2"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				43.7557544,
+				-79.7680243
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "C0A,
+			"term": "help,
+			"count": "36"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.3035314,
+				-62.7624882
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "C0B,
+			"term": "family,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.5289031,
+				-63.9924808
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "E8K,
+			"term": "cancer,
+			"count": "10"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.6948318,
+				-65.8776245
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "A0G,
+			"term": "money,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.06670889999999,
+				-54.213784
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "S2V,
+			"term": "cancer,
+			"count": "73"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.7775768,
+				-104.9363046
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V0T,
+			"term": "expenses,
+			"count": "2"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				53.2187499,
+				-128.194945
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "P5N,
+			"term": "cancer,
+			"count": "8"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				56.130366,
+				-106.346771
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "J8L,
+			"term": "cancer,
+			"count": "143"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.5831131,
+				-75.4129945
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "J8G,
+			"term": "time,
+			"count": "20"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.6758691,
+				-74.4073735
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V0S,
+			"term": "cancer,
+			"count": "282"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				48.5088529,
+				-124.095462
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V0R,
+			"term": "support,
+			"count": "6"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.1306614,
+				-124.5455601
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V0X,
+			"term": "cancer,
+			"count": "71"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.2514558,
+				-121.0385838
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V0E,
+			"term": "cancer,
+			"count": "42"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.3670005,
+				-119.0147615
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "S3N,
+			"term": "cancer,
+			"count": "18"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.2131363,
+				-102.4646525
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V0A,
+			"term": "years,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.9308196,
+				-117.9204831
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V0C,
+			"term": "cancer,
+			"count": "25"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				57.9085681,
+				-123.7070809
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V0B,
+			"term": "help,
+			"count": "19"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.040049,
+				-115.385515
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V0M,
+			"term": "cancer,
+			"count": "250"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.4657584,
+				-122.4039392
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V0N,
+			"term": "home,
+			"count": "3"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.5666362,
+				-122.6978597
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V0H,
+			"term": "family,
+			"count": "69"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.1437996,
+				-119.2449781
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V0K,
+			"term": "cancer,
+			"count": "31"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				51.68275089999999,
+				-121.4885661
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V0J,
+			"term": "year,
+			"count": "2"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				55.8974132,
+				-126.7350146
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "E9A,
+			"term": "treatment,
+			"count": "1"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				46.9529019,
+				-64.9927545
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "E9G,
+			"term": "surgery,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				47.2459983,
+				-65.27460479999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "X0C,
+			"term": "work,
+			"count": "1"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				64.79830749999999,
+				-99.40531159999999
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V8A,
+			"term": "cancer,
+			"count": "44"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				50.3471075,
+				-124.2350315
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "T0B,
+			"term": "cancer,
+			"count": "5"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				52.95741760000001,
+				-111.703535
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V8C,
+			"term": "help,
+			"count": "4"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				54.0640624,
+				-128.6404283
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "V8B,
+			"term": "treatment,
+			"count": "9"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				49.7159284,
+				-123.1424504
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "X1A,
+			"term": "help,
+			"count": "7"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				62.4494655,
+				-114.3715245
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "J4G,
+			"term": "cancer,
+			"count": "20"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.56566189999999,
+				-73.4813724
+			]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"postcode": "J8N,
+			"term": "radiation,
+			"count": "2"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [
+				45.66037009999999,
+				-75.7325496
+			]
+		}
+	}
+	]
+	
+}
